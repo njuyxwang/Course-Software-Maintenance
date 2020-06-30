@@ -1,0 +1,2525 @@
+
+real	0m0.000s
+user	0m0.000s
+sys	0m0.000s
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/unzip.c
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.h
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/unpack.c
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/bits.c
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/crypt.h
+Merging parameters: 20, 0, 3
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/unlzw.c
+Merging parameters: 20, 0, 3
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c
+syntax error: 102.16
+syntax error: 105.11
+Merging parameters: 20, 0, 3
+syntax error: 130.18
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/unlzh.c
+failed to parse file: /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/unzip.c
+syntax error: 262.24
+syntax error: 263.24
+syntax error: 266.24
+syntax error: 267.27
+syntax error: 270.24
+syntax error: 32.9
+syntax error: 273.24
+syntax error: 35.5
+syntax error: 279.15
+Merging parameters: syntax error: 46.5
+syntax error: 283.19
+20, 0, 3syntax error: 284.19
+
+syntax error: 49.5
+syntax error: 288.22
+syntax error: 289.22
+syntax error: 88.5
+syntax error: 290.22
+syntax error: 89.24
+syntax error: 291.22
+syntax error: 95.1
+syntax error: 292.22
+syntax error: 293.27
+syntax error: 102.7
+syntax error: 296.28
+syntax error: 297.18
+syntax error: 298.28
+syntax error: 105.6
+syntax error: 299.28
+syntax error: 300.28
+syntax error: 111.7
+syntax error: 301.28
+syntax error: 302.28
+syntax error: 303.28
+syntax error: 304.28
+syntax error: 118.11
+syntax error: 305.31
+syntax error: 306.28
+syntax error: 127.21
+syntax error: 307.28
+syntax error: 131.7
+syntax error: 308.28
+syntax error: 73.5
+syntax error: 309.28
+syntax error: 310.28
+syntax error: 88.18
+syntax error: 311.28
+syntax error: 139.21
+syntax error: 312.20
+syntax error: 146.1
+syntax error: 315.21
+syntax error: 149.9
+Merging parameters: syntax error: 151.7
+20, 0, 3
+syntax error: 160.20
+typeCount before init() = syntax error: 127.28
+227
+syntax error: 169.7
+syntax error: 136.27
+typeCount after init() = 227
+syntax error: 217.16
+Total counted terminals:418
+typeCount before init() = 227
+syntax error: 190.26
+syntax error: 191.24
+typeCount after init() = 227
+Total counted terminals:0
+syntax error: 197.25
+Line range used: All [0, 0]
+# basic vectors:0
+syntax error: 235.34
+typeCount before init() = 227
+typeCount before init() = 227
+typeCount after init() = 227
+typeCount after init() = 227
+Total counted terminals:178
+Total counted terminals:258
+Merging parameters: 20, 0, 3
+Merging parameters: 20, 0, 3
+syntax error: 133.13
+syntax error: 135.19
+syntax error: 136.19
+syntax error: 139.19
+syntax error: 140.19
+syntax error: 141.19
+syntax error: 142.19
+syntax error: 148.5
+syntax error: 149.1
+syntax error: 172.8
+syntax error: 195.20
+syntax error: 101.9
+syntax error: 154.15
+syntax error: 154.24
+syntax error: 173.29
+syntax error: 178.28
+syntax error: 179.31
+Merging parameters: syntax error: 181.5
+20syntax error: 183.30
+, 0, 3
+syntax error: 199.5
+syntax error: 202.24
+syntax error: 213.6
+syntax error: 215.18
+syntax error: 216.16
+syntax error: 222.21
+syntax error: 225.12
+syntax error: 244.40
+syntax error: 247.12
+syntax error: 250.27
+syntax error: 253.27
+syntax error: 255.24
+syntax error: 265.30
+syntax error: 259.26
+syntax error: 288.7
+syntax error: 19.26
+syntax error: 20.26
+syntax error: 23.30
+syntax error: 24.30
+syntax error: 25.30
+syntax error: 26.30
+syntax error: 27.30
+syntax error: 30.26
+syntax error: 31.26
+syntax error: 32.26
+syntax error: 36.24
+syntax error: 94.5
+syntax error: 108.5
+syntax error: 111.7
+syntax error: 112.1
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/inflate.c
+syntax error: 117.6
+syntax error: 119.5
+syntax error: 358.8
+syntax error: 124.7
+syntax error: 125.1
+syntax error: 361.18
+syntax error: 362.18
+syntax error: 129.10
+syntax error: 133.1
+syntax error: 365.14
+syntax error: 365.42
+syntax error: 136.1
+syntax error: 319.36
+syntax error: 143.7
+syntax error: 382.27
+syntax error: 144.14
+syntax error: 382.37
+syntax error: 324.38
+syntax error: 146.13
+syntax error: 383.25
+Line range used: syntax error: 147.1
+syntax error: 328.33
+syntax error: 383.37
+All [0, 0]syntax error: 385.18
+
+syntax error: 151.7
+syntax error: 386.26
+syntax error: 337.16
+syntax error: 387.25
+syntax error: 391.6
+syntax error: 155.7
+syntax error: 394.22
+syntax error: 407.10
+syntax error: 161.7
+syntax error: 350.40
+syntax error: 164.5
+syntax error: 429.22
+syntax error: 429.53
+syntax error: 171.6
+syntax error: 178.7
+syntax error: 437.10
+syntax error: 365.47
+syntax error: 181.6
+syntax error: 370.5
+syntax error: 187.13
+syntax error: 465.10
+syntax error: 191.9
+syntax error: 468.14
+# basic vectors:10
+syntax error: 470.30
+typeCount before init() = syntax error: 197.5
+227
+syntax error: 475.9
+syntax error: 199.5
+syntax error: 207.7
+typeCount after init() = 227
+syntax error: 488.8
+syntax error: 210.1
+syntax error: 490.1
+syntax error: 215.6
+Total counted terminals:95
+syntax error: 497.29
+syntax error: 517.1
+syntax error: 227.17
+syntax error: 519.59
+syntax error: 229.10
+Line range used: All [0syntax error: 536.16
+syntax error: 235.28
+, 0syntax error: 536.35
+]syntax error: 240.1
+
+syntax error: 245.6
+syntax error: 545.9
+# basic vectors:0
+syntax error: 552.9
+syntax error: 261.17
+syntax error: 261.32
+syntax error: 582.18
+syntax error: 270.28
+syntax error: 275.1
+syntax error: 283.27
+syntax error: 285.27
+syntax error: 289.6
+syntax error: 297.13
+syntax error: 297.27
+syntax error: 302.1
+syntax error: 306.6
+syntax error: 633.32
+syntax error: 314.13
+syntax error: 314.28
+syntax error: 320.1
+syntax error: 322.1
+syntax error: 329.5
+syntax error: 332.1
+syntax error: 661.11
+syntax error: 336.1
+syntax error: 663.18
+syntax error: 341.12
+syntax error: 342.14
+syntax error: 351.1
+syntax error: 356.9
+syntax error: 359.6
+Line range used: All [0, 0]
+# basic vectors:0
+syntax error: 373.13
+syntax error: 376.10
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/revision.h
+typeCount before init() = 227
+typeCount after init() = 227
+Line range used: All [0, 0]
+# basic vectors:0
+typeCount before init() = 227
+Total counted terminals:717
+typeCount after init() = 227
+Merging parameters: 20, 0, 3
+Total counted terminals:1268
+syntax error: 122.5
+syntax error: 125.7
+syntax error: 127.3
+syntax error: 128.1
+syntax error: 132.17
+syntax error: 134.16
+syntax error: 135.20
+syntax error: 136.21
+syntax error: 137.20
+syntax error: 138.22
+syntax error: 139.20
+syntax error: 140.14
+syntax error: 158.17
+syntax error: 162.17
+syntax error: 165.17
+syntax error: 169.17
+syntax error: 206.6
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/lzw.h
+syntax error: 209.13
+syntax error: 216.8
+syntax error: 271.22
+syntax error: 275.3
+syntax error: 276.5
+syntax error: 284.1
+syntax error: 307.19
+syntax error: 309.4
+syntax error: 312.11
+syntax error: 319.10
+syntax error: 325.5
+syntax error: 329.4
+syntax error: 331.23
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c
+syntax error: 335.4
+syntax error: 341.5
+syntax error: 346.9
+Merging parameters: syntax error: 352.7
+20, 0, 3
+syntax error: 359.4
+syntax error: 370.4
+syntax error: 375.5
+syntax error: 389.10
+syntax error: 393.15
+syntax error: 402.27
+typeCount before init() = 227
+syntax error: 413.13
+typeCount after init() = 227
+Total counted terminals:0
+Line range used: All [0syntax error: 424.12
+, 0]
+# basic vectors:0
+syntax error: 446.9
+syntax error: 502.16
+syntax error: 507.3
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c
+Merging parameters: 20, 0, 3
+syntax error: 605.16
+syntax error: 610.3
+syntax error: 667.5
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/tailor.h
+syntax error: 41.20
+syntax error: 42.20
+syntax error: 724.16
+syntax error: 729.3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:22
+Line range used: All [0, 0]
+# basic vectors:0
+syntax error: 873.16
+syntax error: 878.3
+syntax error: 923.4
+Merging parameters: failed to parse file: 20/home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/inflate.c, 
+0, 3
+syntax error: 33.21
+syntax error: 60.10
+syntax error: 60.15
+syntax error: 63.1
+syntax error: 66.18
+syntax error: 66.37
+syntax error: 77.10
+syntax error: 111.27
+syntax error: 125.28
+syntax error: 141.28
+syntax error: 151.9
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/crypt.c
+syntax error: 172.14
+syntax error: 172.24
+Merging parameters: 20, 0, 3
+syntax error: 228.14
+syntax error: 229.14
+syntax error: 235.20
+typeCount before init() = 227
+syntax error: 243.14
+typeCount after init() = 227
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/zip.c
+syntax error: 243.32
+Total counted terminals:34
+syntax error: 244.37
+syntax error: 257.21
+syntax error: 263.13
+syntax error: 267.10
+Merging parameters: 20Line range used: , All 0[, 03, 
+0]
+# basic vectors:0
+Line range used: All [0, 0]
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/trees.c
+# basic vectors:4
+syntax error: 141.21
+syntax error: 188.31
+syntax error: 189.31
+syntax error: 191.23
+syntax error: 193.31
+syntax error: 195.32
+syntax error: 196.32
+syntax error: 373.8
+syntax error: 374.1
+syntax error: 387.5
+syntax error: 390.31
+syntax error: 401.12
+syntax error: 410.14
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:8
+Line range used: All [0, 0]
+# basic vectors:0
+syntax error: 276.26
+syntax error: 277.26
+syntax error: 278.26
+syntax error: 279.26
+syntax error: 280.26
+syntax error: 281.26
+syntax error: 282.27
+Merging parameters: syntax error: 283.26
+20, 0, 3
+syntax error: 284.26
+syntax error: 285.26
+syntax error: 286.26
+syntax error: 287.26
+syntax error: 288.26
+syntax error: 289.27
+syntax error: 290.26
+syntax error: 291.26
+syntax error: 292.26
+syntax error: 293.26
+syntax error: 294.26
+syntax error: 295.26
+syntax error: 25.9
+syntax error: 296.14
+syntax error: 299.26
+syntax error: 36.14
+syntax error: 302.26
+syntax error: 309.1
+syntax error: 327.1
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/lzw.c
+Merging parameters: 20, 0, 3syntax error: 64.31
+
+syntax error: 364.33
+syntax error: 366.9
+syntax error: 371.1
+syntax error: 374.33
+syntax error: 81.53
+typeCount before init() = syntax error: 380.1
+227
+syntax error: 91.19
+syntax error: 383.50
+syntax error: 94.10
+syntax error: 385.35
+typeCount after init() = 227
+syntax error: 388.36
+syntax error: 391.34
+syntax error: 394.34
+syntax error: 397.33
+syntax error: 400.39
+syntax error: 114.23
+syntax error: 403.31
+syntax error: 115.21
+syntax error: 406.28
+syntax error: 409.27
+syntax error: 412.28
+syntax error: 415.32
+typeCount before init() = syntax error: 418.32
+227
+syntax error: 420.24
+syntax error: 428.1
+typeCount after init() = 227
+syntax error: 94.26
+syntax error: 447.44
+Total counted terminals:82
+syntax error: 449.5
+syntax error: 457.26
+syntax error: 458.27
+syntax error: 464.6
+syntax error: 97.26
+syntax error: 480.6
+syntax error: 100.27
+syntax error: 500.6
+syntax error: 143.16
+syntax error: 502.5
+syntax error: 162.11
+syntax error: 166.11
+syntax error: 510.28
+syntax error: 169.1
+syntax error: 179.13
+syntax error: 180.13
+syntax error: 514.28
+Line range used: syntax error: 182.13
+All [0, 0]
+syntax error: 189.13
+syntax error: 524.8
+syntax error: 194.13
+syntax error: 525.1
+syntax error: 198.11
+syntax error: 531.10
+syntax error: 200.18
+syntax error: 205.1
+syntax error: 546.29
+Line range used: syntax error: 207.15
+All [0, 0]
+syntax error: 210.15
+# basic vectors:2
+syntax error: 213.15
+syntax error: 214.23
+syntax error: 572.6
+syntax error: 217.9
+syntax error: 220.9
+Total counted terminals:1530
+syntax error: 585.6
+syntax error: 226.19
+syntax error: 589.10
+syntax error: 228.5
+syntax error: 594.6
+syntax error: 236.9
+syntax error: 239.9
+syntax error: 245.26
+syntax error: 604.14
+syntax error: 248.24
+syntax error: 256.9
+syntax error: 262.5
+syntax error: 264.5
+syntax error: 271.9
+syntax error: 272.9
+syntax error: 274.9
+syntax error: 276.9
+syntax error: 279.5
+syntax error: 283.20
+syntax error: 288.29
+syntax error: 641.6
+syntax error: 294.28
+syntax error: 643.5
+syntax error: 295.28
+syntax error: 646.6
+syntax error: 296.28
+syntax error: 297.28
+syntax error: 298.28
+# basic vectors:30
+syntax error: 299.28
+syntax error: 300.28
+syntax error: 301.28
+syntax error: 302.28
+syntax error: 665.24
+syntax error: 303.28
+syntax error: 304.28
+syntax error: 333.7
+syntax error: 683.1
+syntax error: 335.1
+syntax error: 687.6
+syntax error: 346.6
+syntax error: 350.7
+syntax error: 699.6
+syntax error: 356.21
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/newadd/gzip.c
+syntax error: 703.14
+syntax error: 361.37
+syntax error: 365.7
+syntax error: 371.19
+syntax error: 372.12
+syntax error: 717.14
+syntax error: 379.19
+syntax error: 731.45
+syntax error: 735.5
+syntax error: 384.9
+syntax error: 743.8
+syntax error: 745.1
+syntax error: 392.15
+syntax error: 768.8
+syntax error: 769.1
+syntax error: 392.52
+syntax error: 397.24
+syntax error: 780.6
+syntax error: 402.1
+Merging parameters: syntax error: 408.1
+20, syntax error: 790.6
+0, 3
+syntax error: 797.6
+syntax error: 416.25
+syntax error: 817.8
+syntax error: 819.1
+syntax error: 420.1
+syntax error: 452.11
+syntax error: 832.6
+syntax error: 454.1
+syntax error: 837.10
+syntax error: 457.9
+syntax error: 846.10
+syntax error: 850.6
+syntax error: 853.5
+syntax error: 856.6
+syntax error: 468.13
+syntax error: 471.1
+syntax error: 868.10
+syntax error: 869.36
+syntax error: 484.13
+syntax error: 871.24
+syntax error: 485.1
+syntax error: 874.5
+syntax error: 487.14
+syntax error: 879.6
+typeCount before init() = 227syntax error: 491.16
+syntax error: 885.10
+
+syntax error: 893.1
+syntax error: 900.6
+typeCount after init() = 227
+syntax error: 496.9
+syntax error: 916.6
+Total counted terminals:61
+syntax error: 499.7
+syntax error: 504.25
+syntax error: 936.6
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c
+syntax error: 951.9
+syntax error: 509.10
+syntax error: 955.5
+syntax error: 510.16
+syntax error: 972.7
+syntax error: 973.1
+syntax error: 515.24
+syntax error: 976.13
+syntax error: 517.10
+syntax error: 985.5
+syntax error: 519.18
+syntax error: 988.5
+syntax error: 990.13
+syntax error: 995.6
+syntax error: 524.11
+syntax error: 1004.14
+syntax error: 531.24
+syntax error: 1007.26
+syntax error: 532.27
+syntax error: 1014.14
+syntax error: 533.30
+syntax error: 1021.10
+Line range used: All [syntax error: 1028.10
+0, 0]syntax error: 1030.26
+
+# basic vectors:1
+syntax error: 553.24
+syntax error: 569.11
+syntax error: 571.1
+syntax error: 1067.11
+syntax error: 580.7
+syntax error: 586.18
+syntax error: 1097.6
+syntax error: 588.12
+syntax error: 1101.5
+syntax error: 1105.5
+syntax error: 594.16
+syntax error: 1110.5
+syntax error: 596.22
+syntax error: 1115.5
+syntax error: 1120.5
+syntax error: 1126.10
+syntax error: 610.13
+syntax error: 611.1
+syntax error: 1140.7
+syntax error: 1142.1
+syntax error: 1154.6
+syntax error: 625.7
+syntax error: 1170.28
+syntax error: 629.9
+syntax error: 1170.71
+syntax error: 1174.24
+syntax error: 1177.16
+syntax error: 641.18
+syntax error: 1182.6
+syntax error: 643.17
+syntax error: 1198.5
+syntax error: 1203.6
+syntax error: 1206.23
+syntax error: 664.19
+syntax error: 1210.5
+syntax error: 1216.5
+syntax error: 1219.28
+syntax error: 1219.71
+syntax error: 666.16
+syntax error: 1220.18
+syntax error: 1227.10
+syntax error: 1229.1
+syntax error: 677.5
+syntax error: 1250.8
+syntax error: 684.16
+syntax error: 1252.1
+syntax error: 1254.19
+syntax error: 687.16
+syntax error: 687.46
+syntax error: 1259.10
+syntax error: 697.11
+syntax error: 1261.10
+syntax error: 1262.11
+syntax error: 699.1
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/unzip.c
+Merging parameters: syntax error: 1276.8
+20, 0, 3
+syntax error: 1277.1
+syntax error: 1285.6
+syntax error: 708.6
+syntax error: 1288.10
+syntax error: 709.21
+syntax error: 1291.6
+syntax error: 1296.6
+syntax error: 713.10
+syntax error: 1306.9
+syntax error: 719.29
+syntax error: 1325.1
+syntax error: 726.10
+syntax error: 1342.1
+syntax error: 1350.9
+syntax error: 1353.5
+syntax error: 741.11
+syntax error: 743.1
+syntax error: 1378.10
+syntax error: 1383.23
+syntax error: 1384.44
+syntax error: 1388.13
+syntax error: 753.6
+Merging parameters: 20, 0, 3syntax error: 1401.10
+syntax error: 757.10
+
+syntax error: 1412.8
+syntax error: 1414.1
+syntax error: 766.27
+syntax error: 1435.10
+syntax error: 1436.1
+syntax error: 767.57
+syntax error: 1447.6
+syntax error: 770.59
+syntax error: 1452.26
+syntax error: 773.61
+syntax error: 1456.9
+syntax error: 776.10
+syntax error: 1469.8
+syntax error: 1470.1
+syntax error: 462.15
+syntax error: 468.38
+syntax error: 1478.6
+syntax error: 791.1
+syntax error: 795.15
+syntax error: 1481.10
+syntax error: 489.8
+syntax error: 795.48
+syntax error: 796.15
+syntax error: 1505.6
+syntax error: 796.48
+syntax error: 799.16
+syntax error: 1517.20
+syntax error: 1519.5
+syntax error: 573.14
+syntax error: 1523.5
+syntax error: 585.6
+syntax error: 1526.1
+syntax error: 813.12
+syntax error: 1533.7
+syntax error: 600.53
+syntax error: 34.26
+syntax error: 1534.1
+syntax error: 604.10
+syntax error: 1539.6
+syntax error: 619.7
+syntax error: 35.26
+syntax error: 824.7
+syntax error: 639.70
+syntax error: 644.10
+syntax error: 825.1
+syntax error: 36.26
+syntax error: 654.7
+syntax error: 828.21
+syntax error: 1552.1
+syntax error: 829.21
+syntax error: 831.12
+syntax error: 832.21
+syntax error: 49.8
+syntax error: 833.21
+syntax error: 50.1
+syntax error: 834.22
+syntax error: 57.8
+syntax error: 837.26
+syntax error: 59.1
+syntax error: 839.12
+syntax error: 841.15
+syntax error: 841.48
+syntax error: 842.12
+syntax error: 1590.47
+syntax error: 844.15
+syntax error: 844.48
+syntax error: 845.12
+syntax error: 1594.47
+syntax error: 1599.47
+syntax error: 855.7
+typeCount before init() = 227
+typeCount before init() = 227
+syntax error: 858.16
+typeCount after init() = 227
+typeCount after init() = 227
+syntax error: 864.34
+syntax error: 867.30
+syntax error: 870.30
+Total counted terminals:100
+Merging parameters: 20, 0, 3
+Total counted terminals:1310
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/gzip.h
+syntax error: 932.36
+syntax error: 102.16
+syntax error: 105.11
+syntax error: 937.36
+syntax error: 130.18
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/unpack.c
+failed to parse file: /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/unzip.c
+syntax error: 962.31
+syntax error: 969.24
+syntax error: 976.38
+Line range used: All [0, syntax error: 989.22
+0]
+syntax error: 993.40
+# basic vectors:1
+syntax error: 1012.11
+syntax error: 1013.16
+syntax error: 1014.1
+Merging parameters: 20, 0, 3
+syntax error: 1020.12
+syntax error: 1024.6
+typeCount before init() = 227
+syntax error: 1027.10
+typeCount after init() = 227
+syntax error: 1029.28
+syntax error: 1029.41
+syntax error: 1033.27
+syntax error: 1035.14
+syntax error: 1038.13
+syntax error: 262.24
+syntax error: 1042.26
+syntax error: 263.24
+syntax error: 266.24
+syntax error: 267.27
+syntax error: 270.24
+syntax error: 1046.14
+syntax error: 273.24
+syntax error: 279.15
+syntax error: 1049.13
+syntax error: 283.19
+syntax error: 284.19
+syntax error: 288.22
+syntax error: 289.22
+syntax error: 1055.1
+syntax error: 290.22
+syntax error: 291.22
+syntax error: 292.22
+syntax error: 1064.1
+syntax error: 293.27
+syntax error: 296.28
+syntax error: 297.18
+syntax error: 298.28
+syntax error: 1068.9
+syntax error: 299.28
+syntax error: 300.28
+syntax error: 301.28
+syntax error: 302.28
+syntax error: 303.28
+syntax error: 304.28
+syntax error: 305.31
+syntax error: 306.28
+syntax error: 307.28
+syntax error: 308.28
+syntax error: 1072.6
+syntax error: 309.28
+syntax error: 310.28
+syntax error: 311.28
+syntax error: 312.20
+syntax error: 315.21
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:418
+typeCount before init() = 227
+typeCount after init() = 227
+Merging parameters: 20, 0, 3
+Total counted terminals:3086
+syntax error: 32.9
+syntax error: 35.5
+syntax error: 46.5
+syntax error: 49.5
+syntax error: 88.5
+syntax error: 89.24
+syntax error: 95.1
+syntax error: 102.7
+Total counted terminals:2217
+syntax error: 105.6
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/bits.c
+syntax error: 111.7
+syntax error: 118.11
+syntax error: 127.21
+syntax error: 131.7
+syntax error: 139.21
+syntax error: 146.1
+syntax error: 149.9
+syntax error: 151.7
+syntax error: 160.20
+syntax error: 169.7
+syntax error: 217.16
+Line range used: All [0, 0]
+# basic vectors:0
+syntax error: 235.34
+typeCount before init() = 227
+typeCount after init() = 227
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/crypt.h
+Total counted terminals:178
+Line range used: All [0, 0]
+Line range used: All [0, 0]
+Merging parameters: 20, 0, 3
+Line range used: All [0, 0]
+# basic vectors:40
+# basic vectors:0
+syntax error: 73.5
+syntax error: 88.18
+# basic vectors:29
+syntax error: 127.28
+syntax error: 136.27
+Merging parameters: 20, 0, 3
+syntax error: 190.26
+syntax error: 191.24
+syntax error: 197.25
+typeCount before init() = 227
+typeCount before init() = 227
+typeCount after init() = 227
+typeCount after init() = 227
+Total counted terminals:0
+Line range used: All [0, 0]
+# basic vectors:0
+Total counted terminals:258
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/unlzw.c
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c
+Line range used: All [0, 0]
+Merging parameters: 20, 0, 3
+syntax error: 133.13
+syntax error: 135.19
+syntax error: 136.19
+syntax error: 139.19
+syntax error: 140.19
+syntax error: 141.19
+syntax error: 142.19
+syntax error: 148.5
+syntax error: 149.1
+syntax error: 172.8
+# basic vectors:10
+syntax error: 195.20
+syntax error: 244.40
+syntax error: 247.12
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/unlzh.c
+syntax error: 265.30
+Merging parameters: 20, 0, 3
+syntax error: 319.36
+syntax error: 324.38
+syntax error: 328.33
+syntax error: 337.16
+syntax error: 350.40
+syntax error: 101.9
+syntax error: 154.15
+syntax error: 154.24
+syntax error: 173.29
+syntax error: 178.28
+syntax error: 365.47
+syntax error: 179.31
+syntax error: 181.5
+syntax error: 370.5
+syntax error: 183.30
+syntax error: 199.5
+syntax error: 202.24
+syntax error: 213.6
+syntax error: 215.18
+syntax error: 216.16
+syntax error: 222.21
+syntax error: 225.12
+typeCount before init() = 227
+typeCount after init() = 227
+syntax error: 250.27
+Total counted terminals:95
+syntax error: 253.27
+syntax error: 255.24
+syntax error: 259.26
+syntax error: 288.7
+syntax error: 358.8
+syntax error: 361.18
+syntax error: 362.18
+syntax error: 365.14
+syntax error: 365.42
+syntax error: 382.27
+syntax error: 382.37
+syntax error: 383.25
+syntax error: 383.37
+syntax error: 385.18
+syntax error: 386.26
+syntax error: 387.25
+syntax error: 391.6
+syntax error: 394.22
+syntax error: 407.10
+syntax error: 429.22
+syntax error: 429.53
+Line range used: syntax error: 437.10
+All [0, 0]
+# basic vectors:0
+syntax error: 465.10
+syntax error: 468.14
+syntax error: 470.30
+syntax error: 475.9
+syntax error: 488.8
+syntax error: 490.1
+syntax error: 497.29
+syntax error: 517.1
+syntax error: 519.59
+syntax error: 536.16
+syntax error: 536.35
+syntax error: 545.9
+syntax error: 552.9
+syntax error: 582.18
+syntax error: 633.32
+syntax error: 661.11
+syntax error: 663.18
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/inflate.c
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:1268
+Merging parameters: 20, 0, 3
+syntax error: 19.26
+syntax error: 20.26
+syntax error: 23.30
+syntax error: 24.30
+syntax error: 25.30
+syntax error: 26.30
+syntax error: 27.30
+syntax error: 30.26
+syntax error: 31.26
+syntax error: 32.26
+syntax error: 36.24
+syntax error: 94.5
+syntax error: 108.5
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/revision.h
+syntax error: 111.7
+syntax error: 112.1
+syntax error: 117.6
+syntax error: 119.5
+syntax error: 124.7
+syntax error: 125.1
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/lzw.h
+syntax error: 129.10
+syntax error: 133.1
+syntax error: 136.1
+syntax error: 143.7
+syntax error: 144.14
+syntax error: 146.13
+syntax error: 147.1
+syntax error: 151.7
+syntax error: 155.7
+syntax error: 161.7
+syntax error: 164.5
+syntax error: 171.6
+syntax error: 178.7
+syntax error: 181.6
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c
+syntax error: 187.13
+syntax error: 191.9
+syntax error: 197.5
+syntax error: 199.5
+syntax error: 207.7
+syntax error: 210.1
+syntax error: 215.6
+syntax error: 227.17
+Merging parameters: 20, 0, 3
+syntax error: 229.10
+syntax error: 235.28
+syntax error: 240.1
+syntax error: 245.6
+syntax error: 261.17
+syntax error: 261.32
+syntax error: 122.5
+syntax error: 125.7
+syntax error: 270.28
+syntax error: 127.3
+syntax error: 128.1
+syntax error: 132.17
+syntax error: 275.1
+syntax error: 134.16
+syntax error: 135.20
+syntax error: 283.27
+syntax error: 136.21
+syntax error: 137.20
+syntax error: 285.27
+syntax error: 138.22
+syntax error: 139.20
+syntax error: 140.14
+syntax error: 289.6
+syntax error: 158.17
+syntax error: 297.13
+syntax error: 297.27
+syntax error: 302.1
+syntax error: 162.17
+syntax error: 306.6
+syntax error: 314.13
+syntax error: 314.28
+syntax error: 165.17
+syntax error: 320.1
+syntax error: 322.1
+syntax error: 169.17
+syntax error: 329.5
+syntax error: 332.1
+syntax error: 336.1
+syntax error: 341.12
+syntax error: 206.6
+syntax error: 342.14
+syntax error: 209.13
+syntax error: 351.1
+syntax error: 216.8
+syntax error: 356.9
+syntax error: 271.22
+syntax error: 359.6
+Merging parameters: syntax error: 275.3
+20, syntax error: 276.5
+0, 3
+syntax error: 284.1
+syntax error: 373.13
+syntax error: 376.10
+syntax error: 307.19
+syntax error: 309.4
+syntax error: 312.11
+syntax error: 319.10
+syntax error: 325.5
+syntax error: 329.4
+syntax error: 331.23
+typeCount before init() = 227syntax error: 335.4
+
+syntax error: 341.5
+typeCount after init() = 227
+syntax error: 346.9
+Total counted terminals:0
+Line range used: All [0, 0]
+syntax error: 352.7
+# basic vectors:0
+syntax error: 359.4
+syntax error: 370.4
+syntax error: 375.5
+Merging parameters: 20, 0, 3syntax error: 389.10
+
+typeCount before init() = 227syntax error: 393.15
+
+syntax error: 402.27
+typeCount after init() = 227
+syntax error: 413.13
+syntax error: 424.12
+syntax error: 446.9
+Merging parameters: 20, 0, 3
+syntax error: 33.21
+Line range used: All [0, 0]
+syntax error: 60.10
+syntax error: 60.15
+syntax error: 63.1
+syntax error: 66.18
+syntax error: 66.37
+syntax error: 502.16
+syntax error: 507.3
+syntax error: 77.10
+Total counted terminals:717
+syntax error: 41.20
+syntax error: 111.27
+syntax error: 42.20
+# basic vectors:30
+syntax error: 125.28
+typeCount before init() = 227
+syntax error: 141.28
+typeCount after init() = 227
+syntax error: 151.9
+syntax error: 605.16
+syntax error: 610.3
+Total counted terminals:22
+syntax error: 172.14
+syntax error: 172.24
+syntax error: 667.5
+Line range used: All [0, 0]
+# basic vectors:0
+syntax error: 724.16
+syntax error: 729.3
+syntax error: 228.14
+syntax error: 229.14
+syntax error: 235.20
+syntax error: 243.14
+syntax error: 243.32
+syntax error: 244.37
+syntax error: 257.21
+syntax error: 263.13
+syntax error: 267.10
+syntax error: 873.16
+syntax error: 878.3
+syntax error: 923.4
+failed to parse file: Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/gzip.c
+/home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/inflate.c
+syntax error: 373.8
+syntax error: 374.1
+syntax error: 387.5
+syntax error: 390.31
+syntax error: 401.12
+syntax error: 410.14
+typeCount before init() = 227
+typeCount after init() = 227
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/crypt.c
+Merging parameters: 20, 0, 3
+Total counted terminals:1530
+syntax error: 22.21
+syntax error: 57.16
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/tailor.h
+syntax error: 69.31
+syntax error: 70.31
+syntax error: 72.23
+syntax error: 74.31
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/zip.c
+syntax error: 153.26
+syntax error: 154.26
+syntax error: 155.27
+syntax error: 156.26
+syntax error: 157.26
+syntax error: 158.26
+syntax error: 159.26
+syntax error: 160.26
+syntax error: 161.26
+syntax error: 162.27
+syntax error: 163.26
+syntax error: 164.26
+syntax error: 165.26
+syntax error: 166.26
+syntax error: 167.26
+syntax error: 168.26
+syntax error: 169.14
+syntax error: 177.1
+syntax error: 183.26
+syntax error: 184.27
+syntax error: 189.6
+syntax error: 194.5
+syntax error: 200.6
+syntax error: 218.6
+syntax error: 220.5
+syntax error: 224.8
+syntax error: 225.1
+syntax error: 230.10
+syntax error: 247.6
+Line range used: syntax error: 256.6
+All [0, 0]
+syntax error: 262.6
+syntax error: 287.6
+syntax error: 289.5
+syntax error: 303.1
+syntax error: 307.6
+Merging parameters: 20, 0, syntax error: 317.6
+3
+syntax error: 334.5
+syntax error: 338.8
+syntax error: 340.1
+syntax error: 349.8
+syntax error: 350.1
+syntax error: 358.6
+syntax error: 361.6
+syntax error: 368.6
+syntax error: 380.8
+syntax error: 382.1
+typeCount before init() = 227
+syntax error: 391.6
+# basic vectors:22
+typeCount after init() = 227
+syntax error: 401.6
+Total counted terminals:8
+syntax error: 405.24
+syntax error: 408.5
+syntax error: 410.10
+Line range used: All [0syntax error: 414.1
+, 0]
+# basic vectors:0
+syntax error: 420.6
+syntax error: 426.6
+syntax error: 440.5
+syntax error: 445.7
+syntax error: 446.1
+syntax error: 449.13
+syntax error: 454.5
+Merging parameters: 20syntax error: 457.5
+, 0, 3syntax error: 459.13
+
+syntax error: 462.6
+syntax error: 470.26
+syntax error: 481.26
+syntax error: 510.11
+syntax error: 536.6
+syntax error: 540.5
+Merging parameters: syntax error: 544.5
+20, 0, 3
+syntax error: 549.5
+syntax error: 554.5
+syntax error: 559.5
+syntax error: 575.7
+syntax error: 577.1
+typeCount before init() = 227
+syntax error: 581.6
+typeCount after init() = 227
+syntax error: 602.10
+Total counted terminals:34
+syntax error: 604.1
+syntax error: 611.8
+syntax error: 613.1
+syntax error: 615.19
+syntax error: 620.10
+syntax error: 622.10
+syntax error: 25.9
+syntax error: 627.8
+syntax error: 628.1
+syntax error: 636.6
+syntax error: 36.14
+syntax error: 639.10
+syntax error: 642.6
+Line range used: All [0syntax error: 647.6
+, 0]
+# basic vectors:0
+syntax error: 657.9
+Line range used: All [0, 0]
+syntax error: 64.31
+syntax error: 676.1
+syntax error: 679.1
+syntax error: 687.9
+syntax error: 690.5
+syntax error: 711.23
+syntax error: 81.53
+syntax error: 730.10
+syntax error: 731.1
+syntax error: 91.19
+syntax error: 738.1
+syntax error: 744.7
+syntax error: 94.10
+syntax error: 745.1
+syntax error: 751.1
+syntax error: 114.23
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/trees.c
+syntax error: 115.21
+typeCount before init() = syntax error: 786.47
+227
+syntax error: 790.47
+typeCount after init() = 227
+syntax error: 795.47
+Total counted terminals:82
+# basic vectors:21
+Line range used: All [0, 0]
+# basic vectors:2
+typeCount before init() = 227
+typeCount after init() = 227
+Line range used: All [0, 0]
+# basic vectors:4
+Total counted terminals:2030
+Merging parameters: 20, 0, 3
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/lzw.c
+syntax error: 94.26
+syntax error: 97.26
+syntax error: 100.27
+syntax error: 143.16
+syntax error: 162.11
+syntax error: 166.11
+syntax error: 169.1
+syntax error: 179.13
+syntax error: 180.13
+syntax error: 182.13
+syntax error: 189.13
+syntax error: 194.13
+syntax error: 198.11
+syntax error: 200.18
+syntax error: 205.1
+syntax error: 207.15
+syntax error: 210.15
+syntax error: 213.15
+syntax error: 214.23
+syntax error: 217.9
+syntax error: 220.9
+syntax error: 226.19
+syntax error: 228.5
+syntax error: 236.9
+syntax error: 239.9
+syntax error: 245.26
+syntax error: 248.24
+syntax error: 256.9
+syntax error: 262.5
+syntax error: 264.5
+syntax error: 271.9
+syntax error: 272.9
+syntax error: 274.9
+syntax error: 276.9
+syntax error: 279.5
+syntax error: 283.20
+syntax error: 288.29
+syntax error: 294.28
+syntax error: 295.28
+syntax error: 296.28
+syntax error: 297.28
+syntax error: 298.28
+syntax error: 299.28
+syntax error: 300.28
+syntax error: 301.28
+syntax error: 302.28
+syntax error: 303.28
+syntax error: 304.28
+syntax error: 333.7
+syntax error: 335.1
+syntax error: 346.6
+syntax error: 350.7
+syntax error: 356.21
+syntax error: 361.37
+syntax error: 365.7
+syntax error: 371.19
+syntax error: 372.12
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.h
+syntax error: 379.19
+syntax error: 384.9
+syntax error: 392.15
+syntax error: 392.52
+syntax error: 397.24
+syntax error: 402.1
+syntax error: 408.1
+syntax error: 416.25
+syntax error: 420.1
+syntax error: 452.11
+Merging parameters: syntax error: 454.1
+20, 0, 3
+syntax error: 457.9
+syntax error: 468.13
+syntax error: 471.1
+syntax error: 484.13
+syntax error: 485.1
+syntax error: 487.14
+syntax error: 491.16
+syntax error: 496.9
+syntax error: 499.7
+syntax error: 504.25
+typeCount before init() = 227syntax error: 509.10
+
+syntax error: 510.16
+typeCount after init() = 227
+syntax error: 515.24
+syntax error: 517.10
+Total counted terminals:61
+syntax error: 519.18
+syntax error: 524.11
+syntax error: 531.24
+syntax error: 532.27
+syntax error: 533.30
+syntax error: 553.24
+syntax error: 569.11
+Merging parameters: 20, 0, 3
+syntax error: 571.1
+syntax error: 580.7
+Line range used: All [0, 0]
+syntax error: 586.18
+Line range used: All [syntax error: 588.12
+0, 0]
+# basic vectors:1
+syntax error: 22.10
+syntax error: 594.16
+syntax error: 596.22
+syntax error: 610.13
+syntax error: 124.1
+syntax error: 611.1
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:171
+syntax error: 625.7
+syntax error: 629.9
+syntax error: 641.18
+syntax error: 643.17
+syntax error: 664.19
+syntax error: 666.16
+syntax error: 677.5
+Line range used: All syntax error: 684.16
+[0, 0]
+syntax error: 687.16
+syntax error: 687.46
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/unzip.c
+# basic vectors:4
+syntax error: 697.11
+syntax error: 699.1
+syntax error: 708.6
+syntax error: 709.21
+syntax error: 713.10
+syntax error: 719.29
+# basic vectors:29
+syntax error: 726.10
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c
+syntax error: 741.11
+syntax error: 743.1
+syntax error: 753.6
+syntax error: 757.10
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/gzip.h
+syntax error: 766.27
+syntax error: 767.57
+syntax error: 770.59
+syntax error: 773.61
+syntax error: 776.10
+syntax error: 791.1
+syntax error: 795.15
+syntax error: 795.48
+syntax error: 796.15
+syntax error: 796.48
+syntax error: 799.16
+syntax error: 813.12
+syntax error: 824.7
+syntax error: 825.1
+syntax error: 828.21
+syntax error: 829.21
+syntax error: 831.12
+syntax error: 832.21
+syntax error: 833.21
+syntax error: 834.22
+syntax error: 837.26
+syntax error: 839.12
+syntax error: 841.15
+syntax error: 841.48
+syntax error: 842.12
+syntax error: 844.15
+syntax error: 844.48
+syntax error: 845.12
+syntax error: 855.7
+syntax error: 858.16
+syntax error: 864.34
+syntax error: 867.30
+syntax error: 870.30
+Merging parameters: 20, 0, 3
+syntax error: 932.36
+syntax error: 937.36
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/unpack.c
+syntax error: 962.31
+syntax error: 969.24
+syntax error: 462.15
+Merging parameters: syntax error: 468.38
+20, syntax error: 976.38
+0, 3
+syntax error: 489.8
+syntax error: 989.22
+syntax error: 993.40
+syntax error: 573.14
+syntax error: 585.6
+syntax error: 600.53
+syntax error: 604.10
+syntax error: 619.7
+syntax error: 639.70
+syntax error: 1011.10
+syntax error: 644.10
+syntax error: 654.7
+syntax error: 1020.12
+Merging parameters: 20, 0, 3
+syntax error: 262.24
+syntax error: 263.24
+syntax error: 266.24
+syntax error: 267.27
+syntax error: 1063.10
+syntax error: 270.24
+syntax error: 273.24
+syntax error: 279.15
+syntax error: 283.19
+syntax error: 284.19
+syntax error: 288.22
+typeCount before init() = 227
+syntax error: 289.22
+syntax error: 290.22
+syntax error: 291.22
+typeCount after init() = 227
+syntax error: 292.22
+syntax error: 293.27
+syntax error: 296.28
+syntax error: 297.18
+typeCount before init() = syntax error: 298.28
+227
+syntax error: 299.28
+syntax error: 300.28
+syntax error: 301.28
+syntax error: 302.28
+typeCount after init() = 227
+syntax error: 303.28
+syntax error: 304.28
+Total counted terminals:0
+Line range used: All syntax error: 305.31
+[0, syntax error: 306.28
+0]
+# basic vectors:0
+syntax error: 307.28
+syntax error: 308.28
+syntax error: 309.28
+syntax error: 310.28
+syntax error: 311.28
+syntax error: 312.20
+syntax error: 315.21
+Total counted terminals:1310
+typeCount before init() = 227
+typeCount after init() = 227
+typeCount before init() = Total counted terminals:418
+227
+typeCount after init() = 227
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/bits.c
+Total counted terminals:1635
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/crypt.h
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:0
+Line range used: All [0, 0]
+# basic vectors:0
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/unlzw.c
+Line range used: All [0, 0]
+Merging parameters: 20, 0, 3
+# basic vectors:0
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:0
+Line range used: All [0, 0]
+# basic vectors:0
+Merging parameters: Merging parameters: 20, 0, 320
+, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:0
+Line range used: All [0, 0]
+# basic vectors:0
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:0
+Line range used: All [0, 0]
+# basic vectors:0
+Line range used: All [0, 0]
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/deflate.c
+# basic vectors:40
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/inflate.c
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/revision.h
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/lzw.h
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/unlzh.c
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:0
+Line range used: All [0, 0]
+# basic vectors:0
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:0
+Line range used: All [0, 0]
+# basic vectors:0
+Merging parameters: 20, 0, 3
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:0
+typeCount before init() = Line range used: 227All 
+[0, 0]
+# basic vectors:0
+typeCount after init() = 227
+Total counted terminals:0
+Line range used: All [0, 0]
+# basic vectors:0
+Merging parameters: 20, 0, 3
+syntax error: 41.20
+syntax error: 42.20
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/gzip.c
+Line range used: All [0, 0]
+typeCount before init() = 227
+typeCount after init() = 227
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/util.c
+Total counted terminals:22
+Line range used: All [0, 0]
+# basic vectors:0
+# basic vectors:16
+Merging parameters: 20, 0, 3
+syntax error: 142.21
+syntax error: 177.16
+syntax error: 189.31
+syntax error: 190.31
+syntax error: 192.23
+syntax error: 194.31
+syntax error: 196.32
+syntax error: 197.32
+syntax error: 246.26
+syntax error: 247.26
+syntax error: 248.26
+syntax error: 254.8
+syntax error: 255.1
+syntax error: 262.8
+syntax error: 264.1
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:421
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/tailor.h
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:0
+Line range used: All [0, 0]
+# basic vectors:0
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/zip.c
+Line range used: All [0, 0]
+# basic vectors:3
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/crypt.c
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:34
+Line range used: All [0, 0]
+# basic vectors:0
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/lzw.c
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/trees.c
+Merging parameters: 20, 0, 3
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:8
+Line range used: All [0, 0]
+# basic vectors:0
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:0
+Line range used: All [0, 0]
+# basic vectors:0
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c
+Merging parameters: 20, 0, 3
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/unzip.c
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.h
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:61
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.h
+typeCount before init() = 227
+Merging parameters: 20, 0, 3
+typeCount after init() = 227
+Total counted terminals:0
+Line range used: All [0, 0]
+# basic vectors:0
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/unpack.c
+Merging parameters: Line range used: 20, All 0[, 03, 
+0]
+syntax error: 462.15
+syntax error: 468.38
+syntax error: 489.8
+# basic vectors:1
+syntax error: 22.10
+syntax error: 573.14
+syntax error: 585.6
+syntax error: 600.53
+syntax error: 604.10
+syntax error: 619.7
+syntax error: 639.70
+syntax error: 644.10
+syntax error: 654.7
+syntax error: 124.1
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:171
+typeCount before init() = 227
+typeCount after init() = 227
+Line range used: All [0, 0]
+Line range used: All [0, 0]
+# basic vectors:4
+Total counted terminals:1310
+# basic vectors:7
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/bits.c
+Merging parameters: 20, 0, 3
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/crypt.h
+Merging parameters: 20, 0, 3
+Merging parameters: 20, 0, 3
+syntax error: 102.16
+Merging parameters: syntax error: 105.11
+20, 0, 3
+syntax error: 73.5
+syntax error: 88.18
+syntax error: 127.28
+syntax error: 262.24
+syntax error: 136.27
+syntax error: 263.24
+syntax error: 130.18
+syntax error: 266.24
+syntax error: 267.27
+syntax error: 270.24
+syntax error: 190.26
+syntax error: 32.9
+syntax error: 191.24
+syntax error: 273.24
+syntax error: 197.25
+syntax error: 35.5
+syntax error: 279.15
+syntax error: 46.5
+typeCount before init() = 227
+syntax error: 283.19
+syntax error: 49.5
+typeCount after init() = 227
+syntax error: 284.19
+syntax error: 288.22
+Total counted terminals:258
+syntax error: 88.5
+syntax error: 289.22
+syntax error: 89.24
+syntax error: 290.22
+syntax error: 95.1
+syntax error: 291.22
+syntax error: 292.22
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/unlzw.c
+syntax error: 102.7
+syntax error: 293.27
+syntax error: 296.28
+syntax error: 105.6
+syntax error: 297.18
+syntax error: 111.7
+syntax error: 298.28
+syntax error: 299.28
+syntax error: 300.28
+failed to parse file: syntax error: 118.11
+syntax error: 301.28
+/home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/unzip.c
+syntax error: 302.28
+syntax error: 127.21
+syntax error: 303.28
+syntax error: 131.7
+syntax error: 304.28
+syntax error: 305.31
+syntax error: 306.28
+syntax error: 307.28
+syntax error: 308.28
+syntax error: 139.21
+syntax error: 309.28
+syntax error: 310.28
+syntax error: 146.1
+syntax error: 311.28
+syntax error: 312.20
+syntax error: 149.9
+syntax error: 151.7
+syntax error: 315.21
+syntax error: 160.20
+typeCount before init() = 227syntax error: 169.7
+
+typeCount after init() = 227
+Line range used: All [0, 0]
+Total counted terminals:418
+# basic vectors:10
+syntax error: 217.16
+syntax error: 235.34
+typeCount before init() = 227
+typeCount after init() = 227
+Merging parameters: 20, 0, 3Total counted terminals:178
+
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:0
+Line range used: All [0, 0]
+# basic vectors:0
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c
+Merging parameters: 20, Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/unlzh.c
+0, 3
+Line range used: All [0, 0]
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/inflate.c
+Merging parameters: 20, 0, 3
+syntax error: 101.9
+syntax error: 154.15
+syntax error: 154.24
+syntax error: 173.29
+syntax error: 178.28
+syntax error: 179.31
+syntax error: 181.5
+syntax error: 183.30
+syntax error: 199.5
+syntax error: 133.13
+syntax error: 202.24
+syntax error: 213.6
+syntax error: 215.18
+syntax error: 135.19
+syntax error: 216.16
+syntax error: 136.19
+syntax error: 222.21
+syntax error: 225.12
+syntax error: 139.19
+syntax error: 140.19
+syntax error: 141.19
+syntax error: 142.19
+syntax error: 148.5
+syntax error: 149.1
+syntax error: 172.8
+syntax error: 250.27
+syntax error: 253.27
+syntax error: 255.24
+syntax error: 259.26
+syntax error: 195.20
+syntax error: 288.7
+syntax error: 358.8
+syntax error: 361.18
+syntax error: 362.18
+syntax error: 365.14
+syntax error: 365.42
+syntax error: 382.27
+syntax error: 382.37
+syntax error: 383.25
+Line range used: syntax error: 383.37
+# basic vectors:40
+All [syntax error: 385.18
+0, 0syntax error: 386.26
+]
+syntax error: 387.25
+syntax error: 391.6
+syntax error: 394.22
+syntax error: 407.10
+# basic vectors:0
+syntax error: 429.22
+syntax error: 429.53
+syntax error: 244.40
+syntax error: 247.12
+syntax error: 437.10
+syntax error: 465.10
+syntax error: 468.14
+syntax error: 470.30
+syntax error: 475.9
+syntax error: 488.8
+syntax error: 490.1
+syntax error: 497.29
+syntax error: 517.1
+syntax error: 519.59
+syntax error: 265.30
+syntax error: 536.16
+syntax error: 536.35
+syntax error: 545.9
+syntax error: 552.9
+syntax error: 582.18
+syntax error: 633.32
+syntax error: 661.11
+syntax error: 663.18
+Merging parameters: 20, 0, 3
+syntax error: 319.36
+syntax error: 324.38
+syntax error: 328.33
+typeCount before init() = 227
+typeCount after init() = 227
+syntax error: 337.16
+syntax error: 350.40
+syntax error: 19.26
+syntax error: 20.26
+syntax error: 365.47
+syntax error: 23.30
+syntax error: 370.5
+syntax error: 24.30
+syntax error: 25.30
+syntax error: 26.30
+syntax error: 27.30
+syntax error: 30.26
+syntax error: 31.26
+typeCount before init() = syntax error: 32.26
+227
+Total counted terminals:1268
+syntax error: 36.24
+typeCount after init() = 227
+syntax error: 94.5
+Total counted terminals:95
+syntax error: 108.5
+syntax error: 111.7
+syntax error: 112.1
+Merging parameters: syntax error: 117.6
+20, 0syntax error: 119.5
+, 3
+syntax error: 124.7
+syntax error: 125.1
+syntax error: 129.10
+syntax error: 133.1
+syntax error: 136.1
+syntax error: 143.7
+syntax error: 144.14
+syntax error: 146.13
+syntax error: 147.1
+Line range used: All [0, 0syntax error: 151.7
+]
+syntax error: 155.7
+syntax error: 161.7
+syntax error: 164.5
+syntax error: 171.6
+syntax error: 178.7
+# basic vectors:0
+syntax error: 181.6
+syntax error: 122.5
+syntax error: 187.13
+syntax error: 125.7
+syntax error: 191.9
+syntax error: 127.3
+syntax error: 128.1
+syntax error: 197.5
+syntax error: 132.17
+syntax error: 199.5
+Line range used: All [0, 0syntax error: 207.7
+]syntax error: 134.16
+
+syntax error: 210.1
+syntax error: 135.20
+# basic vectors:0
+syntax error: 215.6
+syntax error: 136.21
+syntax error: 137.20
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/revision.h
+syntax error: 138.22
+syntax error: 139.20
+syntax error: 140.14
+syntax error: 227.17
+syntax error: 229.10
+syntax error: 235.28
+syntax error: 240.1
+syntax error: 245.6
+syntax error: 158.17
+syntax error: 261.17
+syntax error: 261.32
+syntax error: 162.17
+syntax error: 270.28
+syntax error: 275.1
+syntax error: 283.27
+syntax error: 285.27
+syntax error: 165.17
+syntax error: 289.6
+syntax error: 297.13
+syntax error: 297.27
+syntax error: 302.1
+syntax error: 306.6
+syntax error: 169.17
+syntax error: 314.13
+syntax error: 314.28
+syntax error: 320.1
+syntax error: 322.1
+syntax error: 329.5
+syntax error: 206.6
+syntax error: 332.1
+syntax error: 209.13
+syntax error: 336.1
+syntax error: 341.12
+syntax error: 342.14
+syntax error: 351.1
+syntax error: 356.9
+syntax error: 216.8
+syntax error: 359.6
+syntax error: 373.13
+syntax error: 271.22
+syntax error: 376.10
+syntax error: 275.3
+syntax error: 276.5
+syntax error: 284.1
+typeCount before init() = 227
+typeCount after init() = 227
+syntax error: 307.19
+syntax error: 309.4
+syntax error: 312.11
+syntax error: 319.10
+syntax error: 325.5
+syntax error: 329.4
+syntax error: 331.23
+syntax error: 335.4
+syntax error: 341.5
+Total counted terminals:717
+syntax error: 346.9
+syntax error: 352.7
+syntax error: 359.4
+syntax error: 370.4
+syntax error: 375.5
+syntax error: 389.10
+syntax error: 393.15
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c
+syntax error: 402.27
+syntax error: 413.13
+syntax error: 424.12
+syntax error: 446.9
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/lzw.h
+syntax error: 502.16
+syntax error: 507.3
+syntax error: 605.16
+syntax error: 610.3
+Merging parameters: 20, 0, 3
+syntax error: 33.21
+syntax error: 667.5
+syntax error: 60.10
+syntax error: 60.15
+syntax error: 63.1
+syntax error: 66.18
+syntax error: 66.37
+syntax error: 77.10
+syntax error: 111.27
+Merging parameters: syntax error: 125.28
+20, 0, 3
+syntax error: 141.28
+syntax error: 151.9
+syntax error: 724.16
+syntax error: 729.3
+syntax error: 172.14
+syntax error: 172.24
+syntax error: 228.14
+syntax error: 229.14
+syntax error: 235.20
+syntax error: 243.14
+syntax error: 243.32
+syntax error: 244.37
+syntax error: 257.21
+syntax error: 263.13
+syntax error: 267.10
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:0
+Line range used: All [0, 0syntax error: 873.16
+]
+# basic vectors:0
+syntax error: 878.3
+syntax error: 373.8
+syntax error: 374.1
+syntax error: 387.5
+syntax error: 390.31
+syntax error: 401.12
+syntax error: 923.4
+syntax error: 410.14
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/tailor.h
+failed to parse file: /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/inflate.c
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:1530
+Line range used: All [0, 0]
+Merging parameters: 20, 0, 3
+Merging parameters: 20, 0, 3
+Merging parameters: 20, 0, 3
+syntax error: 41.20
+syntax error: 42.20
+typeCount before init() = 227
+# basic vectors:30
+typeCount after init() = 227
+syntax error: 141.21
+Total counted terminals:34
+typeCount before init() = 227syntax error: 176.16
+
+syntax error: 188.31
+syntax error: 189.31
+syntax error: 191.23
+syntax error: 193.31
+typeCount after init() = 227
+syntax error: 195.32
+syntax error: 196.32
+Total counted terminals:22
+Line range used: All [0, 0]
+# basic vectors:0
+Line range used: All [0, 0]
+# basic vectors:0
+syntax error: 276.26
+syntax error: 277.26
+syntax error: 278.26
+syntax error: 279.26
+syntax error: 280.26
+syntax error: 281.26
+syntax error: 282.27
+syntax error: 283.26
+syntax error: 284.26
+syntax error: 285.26
+syntax error: 286.26
+syntax error: 287.26
+syntax error: 288.26
+syntax error: 289.27
+syntax error: 290.26
+syntax error: 291.26
+syntax error: 292.26
+syntax error: 293.26
+syntax error: 294.26
+syntax error: 295.26
+syntax error: 296.14
+syntax error: 299.26
+syntax error: 302.26
+syntax error: 309.1
+syntax error: 327.1
+syntax error: 364.33
+syntax error: 366.9
+syntax error: 371.1
+syntax error: 374.33
+syntax error: 380.1
+syntax error: 383.50
+syntax error: 385.35
+syntax error: 388.36
+syntax error: 391.34
+syntax error: 394.34
+syntax error: 397.33
+syntax error: 400.39
+syntax error: 403.31
+syntax error: 406.28
+syntax error: 409.27
+syntax error: 412.28
+syntax error: 415.32
+syntax error: 418.32
+syntax error: 420.24
+syntax error: 428.1
+syntax error: 447.44
+syntax error: 449.5
+syntax error: 457.26
+syntax error: 458.27
+syntax error: 464.6
+syntax error: 480.6
+syntax error: 500.6
+syntax error: 502.5
+syntax error: 510.28
+syntax error: 514.28
+syntax error: 524.8
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/crypt.c
+syntax error: 525.1
+syntax error: 531.10
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/zip.c
+syntax error: 546.29
+syntax error: 572.6
+syntax error: 585.6
+syntax error: 589.10
+syntax error: 594.6
+syntax error: 604.14
+syntax error: 641.6
+syntax error: 643.5
+syntax error: 646.6
+syntax error: 665.24
+syntax error: 683.1
+syntax error: 687.6
+syntax error: 699.6
+syntax error: 703.14
+syntax error: 717.14
+syntax error: 731.45
+syntax error: 735.5
+syntax error: 743.8
+syntax error: 745.1
+syntax error: 768.8
+syntax error: 769.1
+syntax error: 780.6
+syntax error: 790.6
+syntax error: 797.6
+syntax error: 817.8
+syntax error: 819.1
+syntax error: 831.6
+syntax error: 836.10
+syntax error: 845.10
+syntax error: 849.6
+syntax error: 852.5
+syntax error: 855.6
+syntax error: 867.10
+syntax error: 868.36
+syntax error: 870.24
+syntax error: 873.5
+syntax error: 878.6
+syntax error: 884.10
+syntax error: 892.1
+syntax error: 899.6
+syntax error: 915.6
+syntax error: 935.6
+syntax error: 950.9
+syntax error: 954.5
+syntax error: 971.7
+syntax error: 972.1
+syntax error: 975.13
+syntax error: 984.5
+syntax error: 987.5
+syntax error: 989.13
+syntax error: 994.6
+syntax error: 1003.14
+syntax error: 1006.26
+syntax error: 1013.14
+syntax error: 1020.10
+syntax error: 1027.10
+syntax error: 1029.26
+syntax error: 1066.11
+syntax error: 1096.6
+syntax error: 1100.5
+syntax error: 1104.5
+syntax error: 1109.5
+syntax error: 1114.5
+syntax error: 1119.5
+syntax error: 1125.10
+syntax error: 1139.7
+syntax error: 1141.1
+syntax error: 1153.6
+syntax error: 1169.28
+syntax error: 1169.71
+syntax error: 1173.24
+syntax error: 1176.16
+syntax error: 1181.6
+syntax error: 1197.5
+syntax error: 1202.6
+syntax error: 1205.23
+syntax error: 1209.5
+syntax error: 1215.5
+syntax error: 1218.28
+syntax error: 1218.71
+syntax error: 1219.18
+syntax error: 1226.10
+syntax error: 1228.1
+Merging parameters: 20, 0, 3
+syntax error: 1249.8
+syntax error: 1251.1
+syntax error: 1253.19
+syntax error: 1258.10
+syntax error: 1260.10
+syntax error: 1261.11
+syntax error: 1275.8
+syntax error: 1276.1
+syntax error: 1284.6
+syntax error: 1287.10
+syntax error: 1290.6
+syntax error: 1295.6
+syntax error: 1305.9
+syntax error: 1324.1
+syntax error: 1341.1
+syntax error: 25.9
+syntax error: 1349.9
+syntax error: 1352.5
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/trees.c
+syntax error: 36.14
+syntax error: 1377.10
+syntax error: 1382.23
+syntax error: 1383.44
+syntax error: 1387.13
+syntax error: 1400.10
+syntax error: 1411.8
+syntax error: 64.31
+syntax error: 1413.1
+syntax error: 1434.10
+syntax error: 1435.1
+syntax error: 1446.6
+syntax error: 1451.26
+syntax error: 81.53
+syntax error: 1455.9
+syntax error: 1468.8
+Line range used: syntax error: 1469.1
+All syntax error: 91.19
+[0syntax error: 1477.6
+, syntax error: 94.10
+0syntax error: 1480.10
+]
+syntax error: 1504.6
+syntax error: 1516.20
+syntax error: 1518.5
+syntax error: 1522.5
+syntax error: 1525.1
+syntax error: 1532.7
+syntax error: 1533.1
+syntax error: 114.23
+syntax error: 1538.6
+syntax error: 115.21
+syntax error: 1551.1
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/lzw.c
+typeCount before init() = 227
+typeCount after init() = 227
+syntax error: 1589.47
+syntax error: 1593.47
+Total counted terminals:82
+syntax error: 1598.47
+# basic vectors:4
+Merging parameters: 20, 0, 3
+Line range used: All [0, 0]
+# basic vectors:2
+typeCount before init() = 227
+typeCount before init() = 227
+typeCount after init() = 227
+typeCount after init() = 227
+Total counted terminals:8
+Line range used: All [0, 0]
+# basic vectors:0
+Line range used: All [0, 0]
+Total counted terminals:3096
+Merging parameters: 20, 0, 3
+# basic vectors:29
+Merging parameters: 20, 0, 3
+syntax error: 94.26
+syntax error: 97.26
+syntax error: 100.27
+syntax error: 143.16
+syntax error: 162.11
+typeCount before init() = 227syntax error: 166.11
+
+syntax error: 169.1
+Parsing /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.h
+syntax error: 179.13
+syntax error: 180.13
+typeCount after init() = 227
+syntax error: 182.13
+syntax error: 189.13
+Total counted terminals:61
+syntax error: 194.13
+syntax error: 198.11
+syntax error: 200.18
+syntax error: 205.1
+syntax error: 207.15
+syntax error: 210.15
+syntax error: 213.15
+syntax error: 214.23
+syntax error: 217.9
+syntax error: 220.9
+syntax error: 226.19
+syntax error: 228.5
+syntax error: 236.9
+syntax error: 239.9
+syntax error: 245.26
+syntax error: 248.24
+syntax error: 256.9
+Line range used: All [0, 0]syntax error: 262.5
+
+syntax error: 264.5
+syntax error: 271.9
+syntax error: 272.9
+syntax error: 274.9
+syntax error: 276.9
+# basic vectors:1
+syntax error: 279.5
+syntax error: 283.20
+syntax error: 288.29
+syntax error: 294.28
+syntax error: 295.28
+syntax error: 296.28
+syntax error: 297.28
+syntax error: 298.28
+syntax error: 299.28
+syntax error: 300.28
+syntax error: 301.28
+syntax error: 302.28
+syntax error: 303.28
+syntax error: 304.28
+syntax error: 333.7
+syntax error: 335.1
+syntax error: 346.6
+syntax error: 350.7
+syntax error: 356.21
+syntax error: 361.37
+syntax error: 365.7
+syntax error: 371.19
+syntax error: 372.12
+syntax error: 379.19
+syntax error: 384.9
+syntax error: 392.15
+syntax error: 392.52
+syntax error: 397.24
+syntax error: 402.1
+syntax error: 408.1
+syntax error: 416.25
+syntax error: 420.1
+syntax error: 452.11
+syntax error: 454.1
+syntax error: 457.9
+syntax error: 468.13
+syntax error: 471.1
+syntax error: 484.13
+syntax error: 485.1
+syntax error: 487.14
+syntax error: 491.16
+syntax error: 496.9
+syntax error: 499.7
+syntax error: 504.25
+syntax error: 509.10
+syntax error: 510.16
+syntax error: 515.24
+syntax error: 517.10
+syntax error: 519.18
+syntax error: 524.11
+syntax error: 531.24
+syntax error: 532.27
+syntax error: 533.30
+syntax error: 553.24
+syntax error: 569.11
+syntax error: 571.1
+syntax error: 580.7
+syntax error: 586.18
+syntax error: 588.12
+syntax error: 594.16
+syntax error: 596.22
+syntax error: 610.13
+syntax error: 611.1
+syntax error: 625.7
+syntax error: 629.9
+syntax error: 641.18
+syntax error: 643.17
+syntax error: 664.19
+syntax error: 666.16
+syntax error: 677.5
+syntax error: 684.16
+syntax error: 687.16
+syntax error: 687.46
+syntax error: 697.11
+syntax error: 699.1
+Merging parameters: syntax error: 708.6
+20, 0, 3syntax error: 709.21
+
+syntax error: 713.10
+syntax error: 719.29
+syntax error: 726.10
+syntax error: 741.11
+syntax error: 743.1
+syntax error: 753.6
+syntax error: 757.10
+syntax error: 766.27
+syntax error: 767.57
+syntax error: 22.10
+syntax error: 770.59
+syntax error: 773.61
+syntax error: 776.10
+syntax error: 791.1
+syntax error: 795.15
+syntax error: 795.48
+syntax error: 796.15
+syntax error: 796.48
+syntax error: 799.16
+syntax error: 813.12
+syntax error: 824.7
+syntax error: 825.1
+syntax error: 828.21
+syntax error: 829.21
+syntax error: 831.12
+syntax error: 832.21
+syntax error: 833.21
+syntax error: 124.1
+syntax error: 834.22
+syntax error: 837.26
+syntax error: 839.12
+syntax error: 841.15
+syntax error: 841.48
+typeCount before init() = syntax error: 842.12
+227
+syntax error: 844.15
+syntax error: 844.48
+syntax error: 845.12
+typeCount after init() = 227
+syntax error: 855.7
+syntax error: 858.16
+syntax error: 864.34
+syntax error: 867.30
+Total counted terminals:171
+syntax error: 870.30
+syntax error: 932.36
+syntax error: 937.36
+syntax error: 962.31
+syntax error: 969.24
+syntax error: 976.38
+syntax error: 989.22
+syntax error: 993.40
+syntax error: 1011.10
+syntax error: 1020.12
+Line range used: All [0, 0]
+syntax error: 1063.10
+# basic vectors:4
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:1635
+Line range used: All [0, 0]
+# basic vectors:21
+Line range used: All [0, 0]
+# basic vectors:7

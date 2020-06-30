@@ -1,0 +1,12 @@
+grouping: vectors/vdb_20_0 with distance=0...Total 1321 vectors read in; 1321 vectors dispatched into 99972 ranges (actual groups may be many fewer).
+
+real	0m0.107s
+user	0m0.090s
+sys	0m0.018s
+Done grouping 20 0 0. See groups in vectors/vdb_20_0_g[0-9]*_0_30*
+grouping: vectors/vdb_20_0 with distance=0...Total 1321 vectors read in; 1321 vectors dispatched into 99972 ranges (actual groups may be many fewer).
+
+real	0m0.057s
+user	0m0.046s
+sys	0m0.011s
+Done grouping 20 0 0. See groups in vectors/vdb_20_0_g[0-9]*_0_30*

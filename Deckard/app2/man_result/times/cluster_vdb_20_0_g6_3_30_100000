@@ -1,0 +1,130 @@
+Clustering 'vectors/vdb_20_0_g6_3_30_100000' 6.387488 ...
+/home/hexin/Documents/Deckard/src/lsh/bin/enumBuckets -R 6.387488 -M 10000000 -b 2 -A -f vectors/vdb_20_0_g6_3_30_100000 -c -p vectors/vdb_20_0_g6_3_30_100000.param  >  clusters/cluster_vdb_20_0_g6_3_30_100000
+Warning: output all clones. Takes more time...
+Warning: will compute parameters
+Using the following R-NN DS parameters (from vectors/vdb_20_0_g6_3_30_100000.param):
+N radii = 1, nPoints = 190
+R
+6.387487888
+Success probability
+0.899999976
+Dimension
+227
+R^2
+40.800003052
+Use <u> functions
+1
+k
+4
+m [# independent tuples of LSH functions]
+5
+L
+10
+W
+4.000000000
+T
+190
+typeHT
+3
+
+real	0m0.237s
+user	0m0.234s
+sys	0m0.004s
+Done clustering 'vectors/vdb_20_0_g6_3_30_100000' 6.387488. Log: times/cluster_vdb_20_0_g6_3_30_100000
+Clustering 'vectors/vdb_20_0_g6_3_30_100000' 6.387488 ...
+/home/hexin/Documents/Deckard/src/lsh/bin/enumBuckets -R 6.387488 -M 10000000 -b 2 -A -f vectors/vdb_20_0_g6_3_30_100000 -p vectors/vdb_20_0_g6_3_30_100000.param  >  clusters/cluster_vdb_20_0_g6_3_30_100000
+Warning: output all clones. Takes more time...
+Using the following R-NN DS parameters (from vectors/vdb_20_0_g6_3_30_100000.param):
+N radii = 1, nPoints = 190
+R
+6.387487888
+Success probability
+0.899999976
+Dimension
+227
+R^2
+40.800003052
+Use <u> functions
+1
+k
+4
+m [# independent tuples of LSH functions]
+5
+L
+10
+W
+4.000000000
+T
+190
+typeHT
+3
+
+real	0m0.020s
+user	0m0.016s
+sys	0m0.004s
+Done clustering 'vectors/vdb_20_0_g6_3_30_100000' 6.387488. Log: times/cluster_vdb_20_0_g6_3_30_100000
+Clustering 'vectors/vdb_20_0_g6_3_30_100000' 6.387488 ...
+/home/hexin/Documents/Deckard/src/lsh/bin/enumBuckets -R 6.387488 -M 10000000 -b 2 -A -f vectors/vdb_20_0_g6_3_30_100000 -c -p vectors/vdb_20_0_g6_3_30_100000.param  >  clusters/cluster_vdb_20_0_g6_3_30_100000
+Warning: output all clones. Takes more time...
+Warning: will compute parameters
+Using the following R-NN DS parameters (from vectors/vdb_20_0_g6_3_30_100000.param):
+N radii = 1, nPoints = 190
+R
+6.387487888
+Success probability
+0.899999976
+Dimension
+227
+R^2
+40.800003052
+Use <u> functions
+1
+k
+4
+m [# independent tuples of LSH functions]
+5
+L
+10
+W
+4.000000000
+T
+190
+typeHT
+3
+
+real	0m0.240s
+user	0m0.235s
+sys	0m0.004s
+Done clustering 'vectors/vdb_20_0_g6_3_30_100000' 6.387488. Log: times/cluster_vdb_20_0_g6_3_30_100000
+Clustering 'vectors/vdb_20_0_g6_3_30_100000' 6.387488 ...
+/home/hexin/Documents/Deckard/src/lsh/bin/enumBuckets -R 6.387488 -M 10000000 -b 2 -A -f vectors/vdb_20_0_g6_3_30_100000 -p vectors/vdb_20_0_g6_3_30_100000.param  >  clusters/cluster_vdb_20_0_g6_3_30_100000
+Warning: output all clones. Takes more time...
+Using the following R-NN DS parameters (from vectors/vdb_20_0_g6_3_30_100000.param):
+N radii = 1, nPoints = 190
+R
+6.387487888
+Success probability
+0.899999976
+Dimension
+227
+R^2
+40.800003052
+Use <u> functions
+1
+k
+4
+m [# independent tuples of LSH functions]
+5
+L
+10
+W
+4.000000000
+T
+190
+typeHT
+3
+
+real	0m0.021s
+user	0m0.021s
+sys	0m0.000s
+Done clustering 'vectors/vdb_20_0_g6_3_30_100000' 6.387488. Log: times/cluster_vdb_20_0_g6_3_30_100000

@@ -1,0 +1,10 @@
+Merging all clone reports into clusters/cluster_vdb_20_0_allg_0.7_30 ...
+real	0m0.221s
+user	0m0.235s
+sys	0m0.163s
+Done merging clusters/cluster_vdb_20_0_all_0.7_30. Log: times/merging_20_0_0.7_30
+Merging all clone reports into clusters/cluster_vdb_20_0_allg_0.7_30 ...
+real	0m0.220s
+user	0m0.227s
+sys	0m0.169s
+Done merging clusters/cluster_vdb_20_0_all_0.7_30. Log: times/merging_20_0_0.7_30
