@@ -1,0 +1,969 @@
+
+real	0m0.000s
+user	0m0.000s
+sys	0m0.000s
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/catopen/catopen.c
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/to_cat.c
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/ndir.h
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/util.h
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/msg.c
+Merging parameters: 20, 0, 3
+syntax error: 14.29
+syntax error: 18.10
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/gripes.h
+syntax error: 19.12
+syntax error: 82.14
+syntax error: 84.13
+Merging parameters: 20, 0, 3
+syntax error: 96.5
+syntax error: 97.8
+syntax error: 101.8
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/makemsg.c
+syntax error: 109.5
+syntax error: 111.16
+syntax error: 113.5
+syntax error: 118.5
+syntax error: 21.9
+syntax error: 23.11
+Merging parameters: syntax error: 148.5
+20, 0, 3
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/paths.h
+syntax error: 170.13
+syntax error: 178.7
+syntax error: 183.14
+syntax error: 187.6
+syntax error: 192.11
+syntax error: 197.8
+syntax error: 45.19
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount before init() = 227
+typeCount after init() = 227
+typeCount after init() = 227
+Total counted terminals:78
+Total counted terminals:319
+syntax error: 10.6
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount before init() = typeCount after init() = 227
+227
+Total counted terminals:99
+typeCount after init() = 227
+Line range used: All [0, 0]
+# basic vectors:2
+syntax error: 8.17
+Total counted terminals:741
+syntax error: 17.25
+Line range used: All [0, 0]
+# basic vectors:0
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Merging parameters: Total counted terminals:10
+20, 0, 3
+Line range used: All [0, 0]
+# basic vectors:0
+Merging parameters: 20, 0, 3
+syntax error: 80.7
+syntax error: 81.10
+syntax error: 85.7
+syntax error: 86.10
+syntax error: 90.5
+syntax error: 96.64
+typeCount before init() = 227
+syntax error: 98.5
+syntax error: 101.6
+syntax error: 103.60
+syntax error: 105.5
+typeCount after init() = 227
+Total counted terminals:18
+syntax error: 123.9
+syntax error: 126.11
+syntax error: 132.35
+typeCount before init() = 227
+syntax error: 149.11
+typeCount after init() = 227
+syntax error: 152.17
+syntax error: 161.41
+Total counted terminals:139
+Line range used: All syntax error: 171.10
+[0, 0]
+# basic vectors:0
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:162
+Line range used: All [0, 0]
+# basic vectors:1
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/man-getopt.c
+Line range used: All [0, 0]
+# basic vectors:1
+Line range used: All [0, 0]
+# basic vectors:5
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/manfile.c
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/manpath.h
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/man-config.c
+Merging parameters: 20, 0, 3
+Line range used: All [0, 0]
+Merging parameters: 20, 0, 3
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/defs.h
+Merging parameters: 20# basic vectors:22
+, 0, 3
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/glob.c
+typeCount before init() = 227
+syntax error: 34.13
+typeCount after init() = 227
+Total counted terminals:18
+Line range used: All [0, 0]
+# basic vectors:0
+syntax error: 192.0
+failed to parse file: /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/man-getopt.c
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/version.h
+Merging parameters: 20, 0, 3
+Merging parameters: 20, 0, 3
+syntax error: 3.24
+syntax error: 18.1
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:39
+Line range used: All [0, 0]
+# basic vectors:1
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:1186
+Merging parameters: 20, 0, 3Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/util.c
+
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/gripes.c
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/manfile.h
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:8
+Line range used: All [0, 0]
+# basic vectors:0
+typeCount before init() = 227
+typeCount after init() = 227
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/man.c
+Total counted terminals:1254
+Merging parameters: 20, 0, 3
+syntax error: 19.9
+syntax error: 24.10
+syntax error: 43.11
+syntax error: 45.17
+syntax error: 49.23
+syntax error: 65.39
+syntax error: 72.5
+syntax error: 80.13
+Merging parameters: syntax error: 90.13
+20, 0, 3
+Merging parameters: typeCount before init() = 227
+20, 0, 3
+typeCount after init() = 227
+Total counted terminals:243
+syntax error: 39.19
+syntax error: 41.11
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount before init() = 227typeCount after init() = 227
+
+Total counted terminals:61
+typeCount after init() = 227
+Line range used: All [0, 0]
+# basic vectors:1
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/to_cat.h
+Line range used: syntax error: 202.6
+All [0, 0]
+Total counted terminals:2161
+syntax error: 246.10
+# basic vectors:9
+syntax error: 253.32
+syntax error: 254.15
+syntax error: 270.13
+syntax error: 273.12
+syntax error: 283.37
+syntax error: 291.9
+syntax error: 295.7
+syntax error: 297.22
+syntax error: 300.10
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:857
+syntax error: 397.13
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/manpath.c
+typeCount after init() = 227
+Total counted terminals:27
+Line range used: Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/gripedefs.h
+All [0, 0]
+# basic vectors:0
+Merging parameters: 20, 0, 3
+typeCount before init() = Merging parameters: 227
+20, 0, 3
+typeCount after init() = 227
+syntax error: 81.17
+syntax error: 84.17
+typeCount before init() = 227
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/join.c
+typeCount after init() = 227
+Total counted terminals:0
+Line range used: All [0, 0]
+# basic vectors:0
+Line range used: All [0, 0]
+Total counted terminals:4525
+syntax error: 347.11
+syntax error: 354.6
+Line range used: All [0, 0]
+Line range used: All [0, 0]
+typeCount before init() = 227
+# basic vectors:47
+typeCount after init() = 227
+# basic vectors:22
+Merging parameters: 20, 0, 3
+Total counted terminals:1479
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/man-getopt.h
+typeCount before init() = 227
+typeCount after init() = 227
+# basic vectors:49
+Total counted terminals:167
+Line range used: All [0, 0]
+# basic vectors:2
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:31
+Line range used: All [0, 0]
+# basic vectors:0
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/different.h
+Line range used: All [0, 0]
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/glob.h
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/man-config.h
+# basic vectors:77
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:16
+Line range used: All [0, 0]
+# basic vectors:0
+Merging parameters: Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/man.h
+20, 0, 3
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/slicing/different.c
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:34
+Line range used: All [0, 0]
+# basic vectors:0
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/to_cat.c
+typeCount after init() = 227
+Total counted terminals:9
+Line range used: All [0, 0]
+# basic vectors:0
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:194
+Merging parameters: 20, 0, 3
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/ndir.h
+typeCount before init() = 227
+typeCount after init() = 227
+Line range used: All [0, 0]
+Total counted terminals:77
+# basic vectors:6
+Merging parameters: 20, 0, 3
+Line range used: All [0, 0]
+# basic vectors:0
+syntax error: 21.9
+syntax error: 23.11
+Line range used: All [0, 0]
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/util.h
+typeCount before init() = 227
+Merging parameters: 20, 0, 3typeCount after init() = 227
+
+Total counted terminals:741
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/gripes.h
+syntax error: 45.19
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:78
+# basic vectors:68
+Line range used: All [0, 0]
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/msg.c
+# basic vectors:2
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/makemsg.c
+Merging parameters: 20, 0, 3
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:18
+Line range used: syntax error: 10.6
+All [0, 0]
+# basic vectors:0
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:99
+Merging parameters: 20, 0, 3
+Merging parameters: 20, 0, 3
+syntax error: 80.7
+syntax error: 81.10
+syntax error: 85.7
+syntax error: 86.10
+syntax error: 90.5
+syntax error: 96.64
+syntax error: 98.5
+syntax error: 8.17
+syntax error: 101.6
+syntax error: 103.60
+syntax error: 105.5
+syntax error: 123.9
+syntax error: 126.11
+syntax error: 132.35
+syntax error: 149.11
+syntax error: 17.25
+syntax error: 152.17
+syntax error: 161.41
+syntax error: 171.10
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:162
+Line range used: All [0, 0]
+# basic vectors:0
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:10
+Line range used: All [0, 0]
+# basic vectors:0
+Line range used: All [0, 0]
+# basic vectors:1
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/paths.h
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/man-getopt.c
+Line range used: All [0, 0]
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/manpath.h
+# basic vectors:22
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/manfile.c
+Merging parameters: 20, 0, 3
+Line range used: All [0, 0]
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/glob.c
+syntax error: 192.0
+failed to parse file: /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/man-getopt.c
+Merging parameters: 20, 0, 3
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:18
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/man-config.c
+Line range used: All [0, 0]
+# basic vectors:0
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:139
+Merging parameters: 20, 0, 3
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/defs.h
+syntax error: 33.13
+Line range used: All [0, 0]
+# basic vectors:1
+typeCount before init() = 227
+typeCount after init() = 227
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/manfile.h
+typeCount after init() = 227
+Total counted terminals:622
+Total counted terminals:2161
+# basic vectors:169
+Merging parameters: 20, 0, 3
+syntax error: 3.24
+syntax error: 18.1
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:39
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/version.h
+Line range used: All [0, 0]
+# basic vectors:1
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:61
+Line range used: All [0, 0]
+typeCount before init() = # basic vectors:1
+227
+typeCount after init() = 227
+Merging parameters: 20, 0, 3
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/util.c
+typeCount before init() = 227
+Total counted terminals:1254
+typeCount after init() = 227
+Total counted terminals:8
+Line range used: All [0, 0]
+# basic vectors:0
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/man.c
+Merging parameters: 20, 0, 3
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Line range used: All [0, 0]
+Total counted terminals:353
+syntax error: 39.19
+syntax error: 41.11
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/gripes.c
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/to_cat.h
+# basic vectors:20
+syntax error: 202.6
+syntax error: 246.10
+syntax error: 253.32
+syntax error: 254.15
+syntax error: 270.13
+syntax error: 273.12
+syntax error: 283.37
+syntax error: 291.9
+syntax error: 295.7
+syntax error: 297.22
+Line range used: All [0, syntax error: 300.10
+0]
+# basic vectors:7
+typeCount before init() = 227
+typeCount after init() = 227
+Merging parameters: 20, 0, 3
+Total counted terminals:857
+syntax error: 19.9
+syntax error: 24.10
+syntax error: 43.11
+syntax error: 45.17
+syntax error: 49.23
+syntax error: 65.39
+syntax error: 72.5
+syntax error: 80.13
+syntax error: 90.13
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:243
+Merging parameters: 20, 0, 3
+Line range used: All [0, 0]
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:27
+Line range used: All [0, 0]
+Line range used: All [0, 0]
+# basic vectors:0
+# basic vectors:9
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/gripedefs.h
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/manpath.c
+# basic vectors:77
+Merging parameters: 20, 0, 3
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/join.c
+typeCount before init() = 227
+Merging parameters: 20, 0, 3
+typeCount after init() = 227
+Total counted terminals:0
+Line range used: All [0, 0]
+# basic vectors:0
+Line range used: All [0, 0]
+Line range used: All [0, 0]
+syntax error: 81.17
+syntax error: 84.17
+# basic vectors:22
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/man-getopt.h
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/different.h
+# basic vectors:49
+syntax error: 347.11
+syntax error: 354.6
+typeCount before init() = 227
+typeCount after init() = 227
+Merging parameters: 20, 0, 3
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:16
+Line range used: All [0, 0]
+# basic vectors:0
+Total counted terminals:1479
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/man-config.h
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:167
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:31
+Line range used: All [0, 0]
+# basic vectors:0
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/gencat/genlib.c
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/glob.h
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/man.h
+Merging parameters: 20, 0, 3Line range used: 
+All [0, 0]
+# basic vectors:2
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/helium/src/different.c
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:34
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/gencat/msgcat.h
+Line range used: All [0, 0]
+# basic vectors:0
+Merging parameters: 20, 0, 3
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+typeCount before init() = 227
+Total counted terminals:194
+typeCount after init() = 227
+Total counted terminals:77
+Merging parameters: Line range used: All 20[, 00, , 03]
+
+# basic vectors:0
+Merging parameters: 20, 0, 3
+Line range used: All [0, 0]
+# basic vectors:6
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:9
+Merging parameters: 20, 0, 3
+Line range used: All [0, 0]
+# basic vectors:0
+syntax error: 120.13
+syntax error: 122.1
+syntax error: 132.10
+syntax error: 134.21
+syntax error: 138.1
+syntax error: 155.10
+syntax error: 157.1
+typeCount before init() = 227
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/gencat/gencat.c
+typeCount after init() = 227
+Total counted terminals:92
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/gencat/gencat.h
+Line range used: All [0, 0]
+Line range used: All [0, 0]
+# basic vectors:2
+# basic vectors:68
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/ndir.h
+Merging parameters: 20, 0, 3
+syntax error: 320.8
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/to_cat.c
+syntax error: 322.1
+Merging parameters: 20syntax error: 324.8
+, 0, 3
+syntax error: 327.16
+syntax error: 328.16
+syntax error: 348.10
+syntax error: 92.12
+syntax error: 92.19
+syntax error: 96.1
+syntax error: 358.6
+syntax error: 92.23
+syntax error: 361.21
+Merging parameters: 20, syntax error: 105.7
+0, 3
+syntax error: 93.23
+syntax error: 366.9
+syntax error: 94.23
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/catopen/catopen.c
+syntax error: 95.23
+syntax error: 96.22
+syntax error: 114.18
+syntax error: 97.24
+syntax error: 98.27
+syntax error: 374.10
+syntax error: 119.18
+syntax error: 99.25
+syntax error: 122.28
+syntax error: 100.29
+syntax error: 377.34
+syntax error: 126.18
+syntax error: 129.9
+syntax error: 380.9
+typeCount before init() = syntax error: 45.19
+227
+syntax error: 133.14
+typeCount after init() = 227
+syntax error: 141.18
+syntax error: 385.9
+typeCount before init() = Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/util.h
+227
+syntax error: 146.18
+Total counted terminals:63
+typeCount after init() = 227
+syntax error: 151.14
+Total counted terminals:78
+syntax error: 153.18
+syntax error: 397.33
+syntax error: 160.18
+syntax error: 164.9
+syntax error: 169.10
+syntax error: 172.10
+syntax error: 413.20
+syntax error: 180.13
+syntax error: 180.30
+syntax error: 420.20
+syntax error: 185.1
+syntax error: 427.9
+syntax error: 433.9
+Line range used: All [0syntax error: 443.10
+, 0]
+syntax error: 449.19
+syntax error: 194.6
+syntax error: 450.13
+# basic vectors:2
+syntax error: 451.13
+syntax error: 197.14
+syntax error: 455.18
+syntax error: 457.21
+syntax error: 201.10
+syntax error: 205.37
+Line range used: All [syntax error: 205.54
+0, 0]
+syntax error: 470.18
+syntax error: 208.10
+# basic vectors:0
+syntax error: 472.21
+syntax error: 216.6
+syntax error: 218.10
+syntax error: 224.10
+syntax error: 496.22
+syntax error: 498.25
+syntax error: 244.14
+syntax error: 247.6
+syntax error: 509.5
+syntax error: 249.14
+syntax error: 259.1
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:352
+syntax error: 585.10
+syntax error: 585.27
+syntax error: 590.1
+syntax error: 595.6
+syntax error: 597.35
+syntax error: 598.47
+syntax error: 599.51
+syntax error: 600.49
+syntax error: 601.91
+syntax error: 602.70
+syntax error: 603.97
+syntax error: 604.100
+syntax error: 605.86
+syntax error: 606.25
+syntax error: 609.48
+syntax error: 612.48
+syntax error: 616.32
+syntax error: 617.18
+syntax error: 618.13
+syntax error: 632.10
+syntax error: 638.13
+syntax error: 639.13
+syntax error: 640.19
+syntax error: 641.19
+Merging parameters: syntax error: 644.26
+20syntax error: 645.11
+, 0, 3
+syntax error: 650.57
+syntax error: 653.16
+syntax error: 654.15
+syntax error: 656.16
+syntax error: 657.15
+syntax error: 659.48
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/msg.c
+syntax error: 667.15
+syntax error: 672.7
+syntax error: 672.48
+syntax error: 681.48
+syntax error: 685.19
+syntax error: 693.19
+syntax error: 697.19
+syntax error: 698.24
+syntax error: 708.13
+syntax error: 708.22
+Merging parameters: syntax error: 712.1
+20, 0, 3
+syntax error: 721.48
+syntax error: 21.9
+syntax error: 23.11
+syntax error: 729.25
+syntax error: 731.28
+syntax error: 738.13
+syntax error: 744.21
+syntax error: 759.1
+syntax error: 765.13
+syntax error: 765.27
+syntax error: 770.1
+syntax error: 781.51
+syntax error: 790.25
+syntax error: 792.28
+syntax error: 14.29
+syntax error: 799.13
+syntax error: 18.10
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/makemsg.c
+syntax error: 805.21
+syntax error: 19.12
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/gripes.h
+Merging parameters: 20, 0syntax error: 826.13
+, 3
+syntax error: 833.7
+syntax error: 833.48
+syntax error: 835.52
+syntax error: 839.9
+syntax error: 82.14
+syntax error: 849.14
+syntax error: 84.13
+syntax error: 852.47
+syntax error: 859.13
+syntax error: 867.51
+syntax error: 879.14
+syntax error: 96.5
+syntax error: 882.47
+syntax error: 97.8
+syntax error: 101.8
+syntax error: 109.5
+syntax error: 111.16
+syntax error: 113.5
+syntax error: 118.5
+syntax error: 10.6
+syntax error: 148.5
+Merging parameters: syntax error: 170.13
+20typeCount before init() = , 2270
+, 3
+syntax error: 178.7
+syntax error: 183.14
+typeCount after init() = 227
+syntax error: 187.6
+syntax error: 192.11
+syntax error: 197.8
+Total counted terminals:99
+typeCount before init() = 227
+typeCount after init() = 227
+typeCount before init() = 227
+syntax error: 8.17
+typeCount before init() = 227
+typeCount after init() = 227
+typeCount after init() = 227
+syntax error: 17.25
+Total counted terminals:319
+Total counted terminals:741
+Merging parameters: 20, 0, 3typeCount before init() = 
+227
+Line range used: All typeCount after init() = 227
+[0, 0Total counted terminals:10
+]
+# basic vectors:0
+Line range used: All [0, 0]
+# basic vectors:0
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:18
+Total counted terminals:2400
+Line range used: All [0, 0]
+# basic vectors:0
+Line range used: All [0, 0Merging parameters: ]
+20, 0, 3
+# basic vectors:0
+syntax error: 80.7
+syntax error: 81.10
+syntax error: 85.7
+syntax error: 86.10
+syntax error: 90.5
+syntax error: 96.64
+syntax error: 98.5
+syntax error: 101.6
+syntax error: 103.60
+syntax error: 105.5
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/paths.h
+syntax error: 123.9
+syntax error: 126.11
+syntax error: 132.35
+syntax error: 149.11
+syntax error: 152.17
+syntax error: 161.41
+syntax error: 171.10
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:162
+Line range used: All [0, 0]
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/man-getopt.c
+# basic vectors:5
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/manfile.c
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:139
+Line range used: All [0, 0]
+# basic vectors:1
+Line range used: All [0, 0]
+# basic vectors:1
+Merging parameters: 20, 0, 3
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/manpath.h
+syntax error: 192.0
+failed to parse file: /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/man-getopt.c
+Merging parameters: 20, 0, 3
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/man-config.c
+syntax error: 37.13
+Line range used: All [0, 0]
+# basic vectors:22
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/defs.h
+typeCount before init() = 227
+typeCount after init() = 227
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/glob.c
+Merging parameters: 20, 0, 3
+Total counted terminals:1196
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/version.h
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:18
+Line range used: All [0, 0]
+# basic vectors:0
+Merging parameters: 20, 0, 3
+Merging parameters: 20, 0, 3
+syntax error: 3.24
+syntax error: 18.1
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:39
+Line range used: All [0, 0]
+# basic vectors:1
+Merging parameters: 20, 0, 3
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/manfile.h
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/util.c
+typeCount before init() = 227
+Merging parameters: typeCount after init() = 227
+20, 0Total counted terminals:8
+, 3
+Line range used: All [0, 0]
+# basic vectors:0
+Merging parameters: 20, 0, 3
+syntax error: 39.19
+syntax error: 41.11
+typeCount before init() = 227
+typeCount after init() = 227
+Merging parameters: 20, 0, 3
+syntax error: 202.6
+syntax error: 246.10
+syntax error: 253.32
+syntax error: 254.15
+syntax error: 270.13
+syntax error: 273.12
+syntax error: 283.37
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/man.c
+syntax error: 291.9
+syntax error: 295.7
+syntax error: 297.22
+syntax error: 300.10
+typeCount before init() = 227
+typeCount before init() = 227
+typeCount after init() = 227
+typeCount after init() = 227
+Total counted terminals:61
+Total counted terminals:857
+Total counted terminals:1254
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/gripes.c
+Line range used: All [0, 0]
+# basic vectors:1
+Merging parameters: 20, 0, 3
+Merging parameters: 20, 0, 3
+syntax error: 19.9
+syntax error: 24.10
+syntax error: 43.11
+syntax error: 45.17
+Line range used: All [0, 0]
+syntax error: 49.23
+syntax error: 65.39
+syntax error: 72.5
+syntax error: 80.13
+syntax error: 90.13
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/to_cat.h
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:243
+# basic vectors:47
+typeCount before init() = 227
+typeCount after init() = 227
+Line range used: All [0, 0]
+Line range used: All [0, 0]
+# basic vectors:22
+# basic vectors:9
+Total counted terminals:2161
+Merging parameters: 20, 0, 3
+syntax error: 454.13
+syntax error: 501.50
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:27
+Line range used: All [0, 0]
+# basic vectors:0
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/manpath.c
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/gripedefs.h
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/man-getopt.h
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/join.c
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:0
+Line range used: All [0, 0]
+# basic vectors:0
+Line range used: All [0, 0]
+Merging parameters: 20, 0, 3
+Line range used: All [0, 0]
+typeCount before init() = 227
+# basic vectors:62
+typeCount after init() = 227
+Merging parameters: 20, 0, 3
+syntax error: 81.17
+syntax error: 84.17
+Merging parameters: 20, 0, 3
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/different.h
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:31
+typeCount before init() = 227
+typeCount after init() = 227
+Line range used: All [0, 0]
+# basic vectors:0
+Total counted terminals:167
+# basic vectors:49
+syntax error: 347.11
+syntax error: 354.6
+Total counted terminals:4705
+Line range used: All [0, 0]
+typeCount before init() = 227# basic vectors:2
+
+typeCount after init() = 227
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/man-config.h
+Merging parameters: 20, 0, 3
+Total counted terminals:1479
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:16
+Line range used: All [0, 0]
+# basic vectors:0
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:34
+Line range used: All [0, 0]
+# basic vectors:0
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/glob.h
+Line range used: All [0, 0]
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/different.c
+# basic vectors:77
+Parsing /home/hexin/Documents/Deckard/app2/bugbench//man-1.5h1/src/man.h
+Merging parameters: 20, 0, 3
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount before init() = typeCount after init() = 227
+227
+Total counted terminals:9
+typeCount after init() = 227
+Total counted terminals:194
+Line range used: All [0, 0]
+# basic vectors:0
+Line range used: All [0, 0]
+# basic vectors:6
+Merging parameters: 20, 0, 3
+typeCount before init() = 227
+typeCount after init() = 227
+Total counted terminals:77
+Line range used: All [0, 0]
+# basic vectors:0
+Line range used: All [0, 0]
+# basic vectors:68
+Line range used: All [0, 0]
+# basic vectors:174

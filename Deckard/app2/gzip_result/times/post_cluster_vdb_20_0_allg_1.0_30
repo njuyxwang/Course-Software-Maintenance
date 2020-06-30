@@ -1,0 +1,23 @@
+Post processing clusters/cluster_vdb_20_0_allg_1.0_30 ...  File "/home/hexin/Documents/Deckard/scripts/clonedetect/post_process_groupfile", line 40
+    print "Usage: ", sys.argv[0], " <orig clone reports>"
+                  ^
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print("Usage: ", sys.argv[0], " <orig clone reports>")?
+
+real	0m0.032s
+user	0m0.032s
+sys	0m0.000s
+pcluster: Possible errors occurred. Check log: times/post_cluster_vdb_20_0_allg_1.0_30
+Post processing clusters/cluster_vdb_20_0_allg_1.0_30 ...  File "/home/hexin/Documents/Deckard/scripts/clonedetect/post_process_groupfile", line 40
+    print "Usage: ", sys.argv[0], " <orig clone reports>"
+                  ^
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print("Usage: ", sys.argv[0], " <orig clone reports>")?
+
+real	0m0.032s
+user	0m0.020s
+sys	0m0.012s
+pcluster: Possible errors occurred. Check log: times/post_cluster_vdb_20_0_allg_1.0_30
+Post processing clusters/cluster_vdb_20_0_allg_1.0_30 ...
+real	0m0.041s
+user	0m0.033s
+sys	0m0.008s
+Done post-processing clusters/cluster_vdb_20_0_allg_1.0_30. Log: times/post_cluster_vdb_20_0_allg_1.0_30

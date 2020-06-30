@@ -1,0 +1,684 @@
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:43:5 NODE_KIND:65 nVARs:9 NUM_NODE:108 TBID:35 TEID:81
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:43:5 NODE_KIND:65 nVARs:9 NUM_NODE:108 TBID:35 TEID:81
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:43:5 NODE_KIND:65 nVARs:9 NUM_NODE:108 TBID:35 TEID:81
+
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:605:32 NODE_KIND:65 nVARs:11 NUM_NODE:163 TBID:804 TEID:869
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:605:32 NODE_KIND:65 nVARs:11 NUM_NODE:163 TBID:804 TEID:869
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:605:32 NODE_KIND:65 nVARs:11 NUM_NODE:163 TBID:804 TEID:869
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/unlzh.c LINE:386:17 NODE_KIND:131 nVARs:14 NUM_NODE:163 TBID:641 TEID:716
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/unlzh.c LINE:386:17 NODE_KIND:131 nVARs:14 NUM_NODE:163 TBID:641 TEID:716
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/unlzh.c LINE:386:17 NODE_KIND:131 nVARs:14 NUM_NODE:163 TBID:641 TEID:716
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c LINE:1623:71 NODE_KIND:65 nVARs:36 NUM_NODE:866 TBID:2472 TEID:2823
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c LINE:1622:71 NODE_KIND:65 nVARs:36 NUM_NODE:866 TBID:2482 TEID:2833
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:83:6 NODE_KIND:131 nVARs:6 NUM_NODE:64 TBID:135 TEID:156
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:83:6 NODE_KIND:131 nVARs:6 NUM_NODE:64 TBID:135 TEID:156
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:83:6 NODE_KIND:131 nVARs:6 NUM_NODE:64 TBID:135 TEID:156
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:687:17 NODE_KIND:65 nVARs:8 NUM_NODE:101 TBID:1020 TEID:1055
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:687:17 NODE_KIND:65 nVARs:8 NUM_NODE:101 TBID:1020 TEID:1055
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:687:17 NODE_KIND:65 nVARs:8 NUM_NODE:101 TBID:1020 TEID:1055
+
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/unlzh.c LINE:395:6 NODE_KIND:65 nVARs:7 NUM_NODE:82 TBID:675 TEID:712
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/unlzh.c LINE:395:6 NODE_KIND:65 nVARs:7 NUM_NODE:82 TBID:675 TEID:712
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/unlzh.c LINE:395:6 NODE_KIND:65 nVARs:7 NUM_NODE:82 TBID:675 TEID:712
+
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c LINE:772:6 NODE_KIND:131 nVARs:3 NUM_NODE:82 TBID:1152 TEID:1180
+000000006	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c LINE:772:6 NODE_KIND:131 nVARs:3 NUM_NODE:82 TBID:1162 TEID:1190
+
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c LINE:1710:5 NODE_KIND:65 nVARs:9 NUM_NODE:82 TBID:2868 TEID:2900
+000000007	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c LINE:1709:5 NODE_KIND:65 nVARs:9 NUM_NODE:82 TBID:2878 TEID:2910
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c LINE:1625:68 NODE_KIND:65 nVARs:31 NUM_NODE:807 TBID:2498 TEID:2822
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c LINE:1624:68 NODE_KIND:65 nVARs:31 NUM_NODE:807 TBID:2508 TEID:2832
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:371:22 NODE_KIND:65 nVARs:8 NUM_NODE:271 TBID:526 TEID:619
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:371:22 NODE_KIND:65 nVARs:8 NUM_NODE:271 TBID:526 TEID:619
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:371:22 NODE_KIND:65 nVARs:8 NUM_NODE:271 TBID:526 TEID:619
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:661:103 NODE_KIND:131 nVARs:31 NUM_NODE:870 TBID:940 TEID:1267
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:661:103 NODE_KIND:131 nVARs:31 NUM_NODE:870 TBID:940 TEID:1267
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:661:103 NODE_KIND:131 nVARs:31 NUM_NODE:870 TBID:940 TEID:1267
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c LINE:1566:181 NODE_KIND:131 nVARs:84 NUM_NODE:2105 TBID:2242 TEID:3085
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c LINE:1565:181 NODE_KIND:131 nVARs:84 NUM_NODE:2105 TBID:2252 TEID:3095
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c LINE:1145:7 NODE_KIND:131 nVARs:2 NUM_NODE:80 TBID:1670 TEID:1697
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c LINE:1144:7 NODE_KIND:131 nVARs:2 NUM_NODE:80 TBID:1680 TEID:1707
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c LINE:1580:3 NODE_KIND:65 nVARs:3 NUM_NODE:80 TBID:2291 TEID:2318
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/gzip.c LINE:777:3 NODE_KIND:65 nVARs:3 NUM_NODE:80 TBID:1487 TEID:1514
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c LINE:1579:3 NODE_KIND:65 nVARs:3 NUM_NODE:80 TBID:2301 TEID:2328
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:338:1 NODE_KIND:65 nVARs:5 NUM_NODE:69 TBID:411 TEID:435
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:338:1 NODE_KIND:65 nVARs:5 NUM_NODE:69 TBID:411 TEID:435
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:338:1 NODE_KIND:65 nVARs:5 NUM_NODE:69 TBID:411 TEID:435
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:615:13 NODE_KIND:65 nVARs:4 NUM_NODE:69 TBID:837 TEID:865
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:615:13 NODE_KIND:65 nVARs:4 NUM_NODE:69 TBID:837 TEID:865
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:615:13 NODE_KIND:65 nVARs:4 NUM_NODE:69 TBID:837 TEID:865
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c LINE:1624:70 NODE_KIND:65 nVARs:31 NUM_NODE:808 TBID:2497 TEID:2823
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c LINE:1623:70 NODE_KIND:65 nVARs:31 NUM_NODE:808 TBID:2507 TEID:2833
+
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:208:10 NODE_KIND:131 nVARs:5 NUM_NODE:141 TBID:406 TEID:467
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:208:10 NODE_KIND:131 nVARs:5 NUM_NODE:141 TBID:406 TEID:467
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:208:10 NODE_KIND:131 nVARs:5 NUM_NODE:141 TBID:406 TEID:467
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:250:3 NODE_KIND:65 nVARs:3 NUM_NODE:78 TBID:249 TEID:272
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:257:3 NODE_KIND:65 nVARs:3 NUM_NODE:78 TBID:305 TEID:328
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:265:3 NODE_KIND:65 nVARs:3 NUM_NODE:78 TBID:357 TEID:380
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:250:3 NODE_KIND:65 nVARs:3 NUM_NODE:78 TBID:249 TEID:272
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:257:3 NODE_KIND:65 nVARs:3 NUM_NODE:78 TBID:305 TEID:328
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:265:3 NODE_KIND:65 nVARs:3 NUM_NODE:78 TBID:357 TEID:380
+000000006	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:250:3 NODE_KIND:65 nVARs:3 NUM_NODE:78 TBID:249 TEID:272
+000000007	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:257:3 NODE_KIND:65 nVARs:3 NUM_NODE:78 TBID:305 TEID:328
+000000008	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:265:3 NODE_KIND:65 nVARs:3 NUM_NODE:78 TBID:357 TEID:380
+
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:194:1 NODE_KIND:65 nVARs:5 NUM_NODE:57 TBID:368 TEID:387
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:194:1 NODE_KIND:65 nVARs:5 NUM_NODE:57 TBID:368 TEID:387
+000000008	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:194:1 NODE_KIND:65 nVARs:5 NUM_NODE:57 TBID:368 TEID:387
+
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:183:9 NODE_KIND:131 nVARs:3 NUM_NODE:57 TBID:107 TEID:136
+000000006	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:183:9 NODE_KIND:131 nVARs:3 NUM_NODE:57 TBID:107 TEID:136
+000000007	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:183:9 NODE_KIND:131 nVARs:3 NUM_NODE:57 TBID:107 TEID:136
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:311:5 NODE_KIND:65 nVARs:4 NUM_NODE:71 TBID:299 TEID:325
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:311:5 NODE_KIND:65 nVARs:4 NUM_NODE:71 TBID:299 TEID:325
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:311:5 NODE_KIND:65 nVARs:4 NUM_NODE:71 TBID:299 TEID:325
+
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/trees.c LINE:665:1 NODE_KIND:131 nVARs:6 NUM_NODE:66 TBID:1146 TEID:1170
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/trees.c LINE:665:1 NODE_KIND:131 nVARs:6 NUM_NODE:66 TBID:1146 TEID:1170
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/trees.c LINE:665:1 NODE_KIND:131 nVARs:6 NUM_NODE:66 TBID:1146 TEID:1170
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:383:8 NODE_KIND:65 nVARs:5 NUM_NODE:178 TBID:558 TEID:614
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:383:8 NODE_KIND:65 nVARs:5 NUM_NODE:178 TBID:558 TEID:614
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:383:8 NODE_KIND:65 nVARs:5 NUM_NODE:178 TBID:558 TEID:614
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:369:77 NODE_KIND:65 nVARs:15 NUM_NODE:809 TBID:519 TEID:801
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:369:77 NODE_KIND:65 nVARs:15 NUM_NODE:809 TBID:519 TEID:801
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:369:77 NODE_KIND:65 nVARs:15 NUM_NODE:809 TBID:519 TEID:801
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:296:7 NODE_KIND:65 nVARs:4 NUM_NODE:106 TBID:631 TEID:670
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:296:7 NODE_KIND:65 nVARs:4 NUM_NODE:106 TBID:631 TEID:670
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:296:7 NODE_KIND:65 nVARs:4 NUM_NODE:106 TBID:631 TEID:670
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:707:26 NODE_KIND:65 nVARs:14 NUM_NODE:242 TBID:1066 TEID:1150
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:707:26 NODE_KIND:65 nVARs:14 NUM_NODE:242 TBID:1066 TEID:1150
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:707:26 NODE_KIND:65 nVARs:14 NUM_NODE:242 TBID:1066 TEID:1150
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:447:40 NODE_KIND:65 nVARs:11 NUM_NODE:231 TBID:802 TEID:880
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:447:40 NODE_KIND:65 nVARs:11 NUM_NODE:231 TBID:802 TEID:880
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:447:40 NODE_KIND:65 nVARs:11 NUM_NODE:231 TBID:802 TEID:880
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:225:13 NODE_KIND:131 nVARs:1 NUM_NODE:314 TBID:55 TEID:161
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:225:13 NODE_KIND:131 nVARs:1 NUM_NODE:314 TBID:55 TEID:161
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:225:13 NODE_KIND:131 nVARs:1 NUM_NODE:314 TBID:55 TEID:161
+
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c LINE:1625:68 NODE_KIND:65 nVARs:31 NUM_NODE:798 TBID:2502 TEID:2822
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c LINE:1624:68 NODE_KIND:65 nVARs:31 NUM_NODE:798 TBID:2512 TEID:2832
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c LINE:12:16 NODE_KIND:131 nVARs:1 NUM_NODE:117 TBID:0 TEID:38
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/gzip.c LINE:12:16 NODE_KIND:131 nVARs:1 NUM_NODE:117 TBID:0 TEID:38
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c LINE:12:16 NODE_KIND:131 nVARs:1 NUM_NODE:117 TBID:0 TEID:38
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.h LINE:111:4 NODE_KIND:131 nVARs:8 NUM_NODE:33 TBID:114 TEID:145
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.h LINE:111:4 NODE_KIND:131 nVARs:8 NUM_NODE:33 TBID:114 TEID:145
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.h LINE:111:4 NODE_KIND:131 nVARs:8 NUM_NODE:33 TBID:114 TEID:145
+
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/unlzh.c LINE:397:3 NODE_KIND:65 nVARs:5 NUM_NODE:52 TBID:688 TEID:711
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/unlzh.c LINE:397:3 NODE_KIND:65 nVARs:5 NUM_NODE:52 TBID:688 TEID:711
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/unlzh.c LINE:397:3 NODE_KIND:65 nVARs:5 NUM_NODE:52 TBID:688 TEID:711
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/trees.c LINE:94:2 NODE_KIND:131 nVARs:2 NUM_NODE:217 TBID:9 TEID:73
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/trees.c LINE:94:2 NODE_KIND:131 nVARs:2 NUM_NODE:217 TBID:9 TEID:73
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/trees.c LINE:94:2 NODE_KIND:131 nVARs:2 NUM_NODE:217 TBID:9 TEID:73
+
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:250:3 NODE_KIND:65 nVARs:3 NUM_NODE:94 TBID:243 TEID:272
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:257:3 NODE_KIND:65 nVARs:3 NUM_NODE:94 TBID:299 TEID:328
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:265:3 NODE_KIND:65 nVARs:3 NUM_NODE:94 TBID:351 TEID:380
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:250:3 NODE_KIND:65 nVARs:3 NUM_NODE:94 TBID:243 TEID:272
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:257:3 NODE_KIND:65 nVARs:3 NUM_NODE:94 TBID:299 TEID:328
+000000006	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:265:3 NODE_KIND:65 nVARs:3 NUM_NODE:94 TBID:351 TEID:380
+000000007	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:250:3 NODE_KIND:65 nVARs:3 NUM_NODE:94 TBID:243 TEID:272
+000000008	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:257:3 NODE_KIND:65 nVARs:3 NUM_NODE:94 TBID:299 TEID:328
+000000009	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:265:3 NODE_KIND:65 nVARs:3 NUM_NODE:94 TBID:351 TEID:380
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/bits.c LINE:166:5 NODE_KIND:65 nVARs:4 NUM_NODE:55 TBID:160 TEID:186
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/bits.c LINE:166:5 NODE_KIND:65 nVARs:4 NUM_NODE:55 TBID:160 TEID:186
+000000006	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/bits.c LINE:166:5 NODE_KIND:65 nVARs:4 NUM_NODE:55 TBID:160 TEID:186
+
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c LINE:1260:1 NODE_KIND:131 nVARs:6 NUM_NODE:55 TBID:1850 TEID:1869
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/gzip.c LINE:621:1 NODE_KIND:131 nVARs:6 NUM_NODE:55 TBID:1233 TEID:1252
+000000007	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c LINE:1259:1 NODE_KIND:131 nVARs:6 NUM_NODE:55 TBID:1860 TEID:1879
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:415:8 NODE_KIND:65 nVARs:5 NUM_NODE:56 TBID:681 TEID:701
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:415:8 NODE_KIND:65 nVARs:5 NUM_NODE:56 TBID:681 TEID:701
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:415:8 NODE_KIND:65 nVARs:5 NUM_NODE:56 TBID:681 TEID:701
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:587:66 NODE_KIND:65 nVARs:22 NUM_NODE:459 TBID:753 TEID:931
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:587:66 NODE_KIND:65 nVARs:22 NUM_NODE:459 TBID:753 TEID:931
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:587:66 NODE_KIND:65 nVARs:22 NUM_NODE:459 TBID:753 TEID:931
+
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/bits.c LINE:199:7 NODE_KIND:65 nVARs:6 NUM_NODE:60 TBID:228 TEID:256
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/bits.c LINE:199:7 NODE_KIND:65 nVARs:6 NUM_NODE:60 TBID:228 TEID:256
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/bits.c LINE:199:7 NODE_KIND:65 nVARs:6 NUM_NODE:60 TBID:228 TEID:256
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:214:3 NODE_KIND:65 nVARs:2 NUM_NODE:60 TBID:444 TEID:466
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:214:3 NODE_KIND:65 nVARs:2 NUM_NODE:60 TBID:444 TEID:466
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:214:3 NODE_KIND:65 nVARs:2 NUM_NODE:60 TBID:444 TEID:466
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:686:18 NODE_KIND:65 nVARs:12 NUM_NODE:152 TBID:1004 TEID:1055
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:686:18 NODE_KIND:65 nVARs:12 NUM_NODE:152 TBID:1004 TEID:1055
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:686:18 NODE_KIND:65 nVARs:12 NUM_NODE:152 TBID:1004 TEID:1055
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.h LINE:77:13 NODE_KIND:131 nVARs:5 NUM_NODE:24 TBID:13 TEID:36
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.h LINE:77:13 NODE_KIND:131 nVARs:5 NUM_NODE:24 TBID:13 TEID:36
+000000006	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.h LINE:77:13 NODE_KIND:131 nVARs:5 NUM_NODE:24 TBID:13 TEID:36
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.h LINE:104:2 NODE_KIND:131 nVARs:7 NUM_NODE:30 TBID:56 TEID:84
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.h LINE:106:3 NODE_KIND:131 nVARs:7 NUM_NODE:30 TBID:85 TEID:113
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.h LINE:104:2 NODE_KIND:131 nVARs:7 NUM_NODE:30 TBID:56 TEID:84
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.h LINE:106:3 NODE_KIND:131 nVARs:7 NUM_NODE:30 TBID:85 TEID:113
+000000007	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.h LINE:104:2 NODE_KIND:131 nVARs:7 NUM_NODE:30 TBID:56 TEID:84
+000000008	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.h LINE:106:3 NODE_KIND:131 nVARs:7 NUM_NODE:30 TBID:85 TEID:113
+
+
+
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:732:12 NODE_KIND:65 nVARs:8 NUM_NODE:125 TBID:1156 TEID:1204
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:732:12 NODE_KIND:65 nVARs:8 NUM_NODE:125 TBID:1156 TEID:1204
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:732:12 NODE_KIND:65 nVARs:8 NUM_NODE:125 TBID:1156 TEID:1204
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:666:4 NODE_KIND:65 nVARs:5 NUM_NODE:50 TBID:1019 TEID:1044
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:666:4 NODE_KIND:65 nVARs:5 NUM_NODE:50 TBID:1019 TEID:1044
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:666:4 NODE_KIND:65 nVARs:5 NUM_NODE:50 TBID:1019 TEID:1044
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:324:2 NODE_KIND:65 nVARs:4 NUM_NODE:63 TBID:338 TEID:364
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:324:2 NODE_KIND:65 nVARs:4 NUM_NODE:63 TBID:338 TEID:364
+000000011	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:324:2 NODE_KIND:65 nVARs:4 NUM_NODE:63 TBID:338 TEID:364
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:327:4 NODE_KIND:65 nVARs:3 NUM_NODE:63 TBID:365 TEID:389
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:327:4 NODE_KIND:65 nVARs:3 NUM_NODE:63 TBID:365 TEID:389
+000000012	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:327:4 NODE_KIND:65 nVARs:3 NUM_NODE:63 TBID:365 TEID:389
+
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:738:3 NODE_KIND:65 nVARs:5 NUM_NODE:63 TBID:1173 TEID:1197
+000000006	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:738:3 NODE_KIND:65 nVARs:5 NUM_NODE:63 TBID:1173 TEID:1197
+000000013	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:738:3 NODE_KIND:65 nVARs:5 NUM_NODE:63 TBID:1173 TEID:1197
+
+000000007	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:478:9 NODE_KIND:65 nVARs:6 NUM_NODE:63 TBID:860 TEID:880
+000000009	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:478:9 NODE_KIND:65 nVARs:6 NUM_NODE:63 TBID:860 TEID:880
+000000014	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:478:9 NODE_KIND:65 nVARs:6 NUM_NODE:63 TBID:860 TEID:880
+
+000000008	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:745:6 NODE_KIND:65 nVARs:4 NUM_NODE:63 TBID:1275 TEID:1303
+000000010	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:745:6 NODE_KIND:65 nVARs:4 NUM_NODE:63 TBID:1275 TEID:1303
+000000015	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:745:6 NODE_KIND:65 nVARs:4 NUM_NODE:63 TBID:1275 TEID:1303
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:699:44 NODE_KIND:65 nVARs:11 NUM_NODE:331 TBID:1129 TEID:1268
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:699:44 NODE_KIND:65 nVARs:11 NUM_NODE:331 TBID:1129 TEID:1268
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:699:44 NODE_KIND:65 nVARs:11 NUM_NODE:331 TBID:1129 TEID:1268
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:279:53 NODE_KIND:131 nVARs:20 NUM_NODE:734 TBID:524 TEID:822
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:279:53 NODE_KIND:131 nVARs:20 NUM_NODE:734 TBID:524 TEID:822
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:279:53 NODE_KIND:131 nVARs:20 NUM_NODE:734 TBID:524 TEID:822
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c LINE:243:30 NODE_KIND:131 nVARs:2 NUM_NODE:734 TBID:301 TEID:548
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/gzip.c LINE:120:30 NODE_KIND:131 nVARs:2 NUM_NODE:734 TBID:221 TEID:468
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c LINE:243:30 NODE_KIND:131 nVARs:2 NUM_NODE:734 TBID:311 TEID:558
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:605:38 NODE_KIND:65 nVARs:14 NUM_NODE:270 TBID:798 TEID:904
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:605:38 NODE_KIND:65 nVARs:14 NUM_NODE:270 TBID:798 TEID:904
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:605:38 NODE_KIND:65 nVARs:14 NUM_NODE:270 TBID:798 TEID:904
+
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:326:162 NODE_KIND:131 nVARs:28 NUM_NODE:1371 TBID:382 TEID:881
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:326:162 NODE_KIND:131 nVARs:28 NUM_NODE:1371 TBID:382 TEID:881
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:326:162 NODE_KIND:131 nVARs:28 NUM_NODE:1371 TBID:382 TEID:881
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:615:21 NODE_KIND:65 nVARs:5 NUM_NODE:87 TBID:831 TEID:868
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:615:21 NODE_KIND:65 nVARs:5 NUM_NODE:87 TBID:831 TEID:868
+000000010	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:615:21 NODE_KIND:65 nVARs:5 NUM_NODE:87 TBID:831 TEID:868
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/bits.c LINE:182:25 NODE_KIND:131 nVARs:8 NUM_NODE:87 TBID:207 TEID:257
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/bits.c LINE:182:25 NODE_KIND:131 nVARs:8 NUM_NODE:87 TBID:207 TEID:257
+000000011	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/bits.c LINE:182:25 NODE_KIND:131 nVARs:8 NUM_NODE:87 TBID:207 TEID:257
+
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:156:7 NODE_KIND:65 nVARs:5 NUM_NODE:87 TBID:237 TEID:275
+000000007	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:156:7 NODE_KIND:65 nVARs:5 NUM_NODE:87 TBID:237 TEID:275
+000000014	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:156:7 NODE_KIND:65 nVARs:5 NUM_NODE:87 TBID:237 TEID:275
+
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:443:2 NODE_KIND:65 nVARs:5 NUM_NODE:87 TBID:774 TEID:800
+000000008	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:443:2 NODE_KIND:65 nVARs:5 NUM_NODE:87 TBID:774 TEID:800
+000000012	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:443:2 NODE_KIND:65 nVARs:5 NUM_NODE:87 TBID:774 TEID:800
+
+000000006	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:672:10 NODE_KIND:131 nVARs:8 NUM_NODE:87 TBID:1046 TEID:1100
+000000009	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:672:10 NODE_KIND:131 nVARs:8 NUM_NODE:87 TBID:1046 TEID:1100
+000000013	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:672:10 NODE_KIND:131 nVARs:8 NUM_NODE:87 TBID:1046 TEID:1100
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/bits.c LINE:98:17 NODE_KIND:131 nVARs:9 NUM_NODE:105 TBID:17 TEID:54
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/bits.c LINE:98:17 NODE_KIND:131 nVARs:9 NUM_NODE:105 TBID:17 TEID:54
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/bits.c LINE:98:17 NODE_KIND:131 nVARs:9 NUM_NODE:105 TBID:17 TEID:54
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:321:5 NODE_KIND:65 nVARs:6 NUM_NODE:105 TBID:758 TEID:796
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:321:5 NODE_KIND:65 nVARs:6 NUM_NODE:105 TBID:758 TEID:796
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:321:5 NODE_KIND:65 nVARs:6 NUM_NODE:105 TBID:758 TEID:796
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/unlzh.c LINE:395:6 NODE_KIND:65 nVARs:8 NUM_NODE:95 TBID:670 TEID:712
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/unlzh.c LINE:395:6 NODE_KIND:65 nVARs:8 NUM_NODE:95 TBID:670 TEID:712
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/unlzh.c LINE:395:6 NODE_KIND:65 nVARs:8 NUM_NODE:95 TBID:670 TEID:712
+
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:345:22 NODE_KIND:65 nVARs:11 NUM_NODE:206 TBID:438 TEID:507
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:345:22 NODE_KIND:65 nVARs:11 NUM_NODE:206 TBID:438 TEID:507
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:345:22 NODE_KIND:65 nVARs:11 NUM_NODE:206 TBID:438 TEID:507
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:39:15 NODE_KIND:131 nVARs:14 NUM_NODE:202 TBID:18 TEID:108
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:39:15 NODE_KIND:131 nVARs:14 NUM_NODE:202 TBID:18 TEID:108
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:39:15 NODE_KIND:131 nVARs:14 NUM_NODE:202 TBID:18 TEID:108
+
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c LINE:1730:10 NODE_KIND:65 nVARs:14 NUM_NODE:137 TBID:2995 TEID:3054
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c LINE:1729:10 NODE_KIND:65 nVARs:14 NUM_NODE:137 TBID:3005 TEID:3064
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c LINE:1614:4 NODE_KIND:65 nVARs:4 NUM_NODE:68 TBID:2425 TEID:2450
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/gzip.c LINE:803:4 NODE_KIND:65 nVARs:4 NUM_NODE:68 TBID:1611 TEID:1636
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c LINE:1613:4 NODE_KIND:65 nVARs:4 NUM_NODE:68 TBID:2435 TEID:2460
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:352:14 NODE_KIND:65 nVARs:7 NUM_NODE:161 TBID:451 TEID:506
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:352:14 NODE_KIND:65 nVARs:7 NUM_NODE:161 TBID:451 TEID:506
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:352:14 NODE_KIND:65 nVARs:7 NUM_NODE:161 TBID:451 TEID:506
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:707:35 NODE_KIND:65 nVARs:6 NUM_NODE:246 TBID:1162 TEID:1267
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:707:35 NODE_KIND:65 nVARs:6 NUM_NODE:246 TBID:1162 TEID:1267
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:707:35 NODE_KIND:65 nVARs:6 NUM_NODE:246 TBID:1162 TEID:1267
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:587:66 NODE_KIND:65 nVARs:22 NUM_NODE:443 TBID:759 TEID:931
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:587:66 NODE_KIND:65 nVARs:22 NUM_NODE:443 TBID:759 TEID:931
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:587:66 NODE_KIND:65 nVARs:22 NUM_NODE:443 TBID:759 TEID:931
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:321:5 NODE_KIND:65 nVARs:4 NUM_NODE:67 TBID:771 TEID:796
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:321:5 NODE_KIND:65 nVARs:4 NUM_NODE:67 TBID:771 TEID:796
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:321:5 NODE_KIND:65 nVARs:4 NUM_NODE:67 TBID:771 TEID:796
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:690:64 NODE_KIND:131 nVARs:13 NUM_NODE:468 TBID:1101 TEID:1309
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:690:64 NODE_KIND:131 nVARs:13 NUM_NODE:468 TBID:1101 TEID:1309
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:690:64 NODE_KIND:131 nVARs:13 NUM_NODE:468 TBID:1101 TEID:1309
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:675:85 NODE_KIND:65 nVARs:28 NUM_NODE:729 TBID:982 TEID:1244
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:675:85 NODE_KIND:65 nVARs:28 NUM_NODE:729 TBID:982 TEID:1244
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:675:85 NODE_KIND:65 nVARs:28 NUM_NODE:729 TBID:982 TEID:1244
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:370:23 NODE_KIND:65 nVARs:10 NUM_NODE:287 TBID:520 TEID:619
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:370:23 NODE_KIND:65 nVARs:10 NUM_NODE:287 TBID:520 TEID:619
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:370:23 NODE_KIND:65 nVARs:10 NUM_NODE:287 TBID:520 TEID:619
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:344:23 NODE_KIND:65 nVARs:11 NUM_NODE:222 TBID:432 TEID:507
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:344:23 NODE_KIND:65 nVARs:11 NUM_NODE:222 TBID:432 TEID:507
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:344:23 NODE_KIND:65 nVARs:11 NUM_NODE:222 TBID:432 TEID:507
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/bits.c LINE:164:13 NODE_KIND:131 nVARs:6 NUM_NODE:128 TBID:155 TEID:206
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/bits.c LINE:164:13 NODE_KIND:131 nVARs:6 NUM_NODE:128 TBID:155 TEID:206
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/bits.c LINE:164:13 NODE_KIND:131 nVARs:6 NUM_NODE:128 TBID:155 TEID:206
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:580:75 NODE_KIND:131 nVARs:24 NUM_NODE:516 TBID:734 TEID:938
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:580:75 NODE_KIND:131 nVARs:24 NUM_NODE:516 TBID:734 TEID:938
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:580:75 NODE_KIND:131 nVARs:24 NUM_NODE:516 TBID:734 TEID:938
+
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/trees.c LINE:100:2 NODE_KIND:131 nVARs:2 NUM_NODE:147 TBID:143 TEID:187
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/trees.c LINE:220:2 NODE_KIND:131 nVARs:2 NUM_NODE:147 TBID:361 TEID:405
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/trees.c LINE:100:2 NODE_KIND:131 nVARs:2 NUM_NODE:147 TBID:143 TEID:187
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/trees.c LINE:220:2 NODE_KIND:131 nVARs:2 NUM_NODE:147 TBID:361 TEID:405
+000000006	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/trees.c LINE:100:2 NODE_KIND:131 nVARs:2 NUM_NODE:147 TBID:143 TEID:187
+000000007	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/trees.c LINE:220:2 NODE_KIND:131 nVARs:2 NUM_NODE:147 TBID:361 TEID:405
+
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c LINE:1611:7 NODE_KIND:65 nVARs:5 NUM_NODE:147 TBID:2394 TEID:2450
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/gzip.c LINE:800:7 NODE_KIND:65 nVARs:5 NUM_NODE:147 TBID:1580 TEID:1636
+000000008	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c LINE:1610:7 NODE_KIND:65 nVARs:5 NUM_NODE:147 TBID:2404 TEID:2460
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:596:9 NODE_KIND:65 nVARs:7 NUM_NODE:90 TBID:767 TEID:797
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:596:9 NODE_KIND:65 nVARs:7 NUM_NODE:90 TBID:767 TEID:797
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:596:9 NODE_KIND:65 nVARs:7 NUM_NODE:90 TBID:767 TEID:797
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:636:7 NODE_KIND:65 nVARs:7 NUM_NODE:90 TBID:871 TEID:904
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:636:7 NODE_KIND:65 nVARs:7 NUM_NODE:90 TBID:871 TEID:904
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:636:7 NODE_KIND:65 nVARs:7 NUM_NODE:90 TBID:871 TEID:904
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:343:5 NODE_KIND:131 nVARs:7 NUM_NODE:59 TBID:851 TEID:883
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:343:5 NODE_KIND:131 nVARs:7 NUM_NODE:59 TBID:851 TEID:883
+000000008	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:343:5 NODE_KIND:131 nVARs:7 NUM_NODE:59 TBID:851 TEID:883
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c LINE:583:2 NODE_KIND:131 nVARs:8 NUM_NODE:59 TBID:912 TEID:931
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/gzip.c LINE:254:2 NODE_KIND:131 nVARs:8 NUM_NODE:59 TBID:660 TEID:679
+000000009	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c LINE:583:2 NODE_KIND:131 nVARs:8 NUM_NODE:59 TBID:922 TEID:941
+
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:433:6 NODE_KIND:65 nVARs:6 NUM_NODE:59 TBID:752 TEID:773
+000000006	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:433:6 NODE_KIND:65 nVARs:6 NUM_NODE:59 TBID:752 TEID:773
+000000007	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:433:6 NODE_KIND:65 nVARs:6 NUM_NODE:59 TBID:752 TEID:773
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/trees.c LINE:97:2 NODE_KIND:131 nVARs:2 NUM_NODE:224 TBID:75 TEID:141
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/trees.c LINE:97:2 NODE_KIND:131 nVARs:2 NUM_NODE:224 TBID:75 TEID:141
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/trees.c LINE:97:2 NODE_KIND:131 nVARs:2 NUM_NODE:224 TBID:75 TEID:141
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:296:7 NODE_KIND:65 nVARs:6 NUM_NODE:140 TBID:619 TEID:670
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:296:7 NODE_KIND:65 nVARs:6 NUM_NODE:140 TBID:619 TEID:670
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:296:7 NODE_KIND:65 nVARs:6 NUM_NODE:140 TBID:619 TEID:670
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/zip.c LINE:103:15 NODE_KIND:131 nVARs:4 NUM_NODE:31 TBID:59 TEID:81
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/zip.c LINE:103:15 NODE_KIND:131 nVARs:4 NUM_NODE:31 TBID:59 TEID:81
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/zip.c LINE:103:15 NODE_KIND:131 nVARs:4 NUM_NODE:31 TBID:59 TEID:81
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:257:10 NODE_KIND:131 nVARs:3 NUM_NODE:31 TBID:502 TEID:521
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:257:10 NODE_KIND:131 nVARs:3 NUM_NODE:31 TBID:502 TEID:521
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:257:10 NODE_KIND:131 nVARs:3 NUM_NODE:31 TBID:502 TEID:521
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:349:10 NODE_KIND:131 nVARs:8 NUM_NODE:79 TBID:884 TEID:927
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:349:10 NODE_KIND:131 nVARs:8 NUM_NODE:79 TBID:884 TEID:927
+000000008	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:349:10 NODE_KIND:131 nVARs:8 NUM_NODE:79 TBID:884 TEID:927
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:660:11 NODE_KIND:131 nVARs:6 NUM_NODE:79 TBID:995 TEID:1045
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:660:11 NODE_KIND:131 nVARs:6 NUM_NODE:79 TBID:995 TEID:1045
+000000006	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:660:11 NODE_KIND:131 nVARs:6 NUM_NODE:79 TBID:995 TEID:1045
+
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:744:7 NODE_KIND:65 nVARs:4 NUM_NODE:79 TBID:1269 TEID:1303
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:744:7 NODE_KIND:65 nVARs:4 NUM_NODE:79 TBID:1269 TEID:1303
+000000007	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:744:7 NODE_KIND:65 nVARs:4 NUM_NODE:79 TBID:1269 TEID:1303
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:286:57 NODE_KIND:131 nVARs:35 NUM_NODE:648 TBID:191 TEID:436
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:286:57 NODE_KIND:131 nVARs:35 NUM_NODE:648 TBID:191 TEID:436
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:286:57 NODE_KIND:131 nVARs:35 NUM_NODE:648 TBID:191 TEID:436
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/bits.c LINE:149:11 NODE_KIND:131 nVARs:4 NUM_NODE:118 TBID:104 TEID:154
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/bits.c LINE:149:11 NODE_KIND:131 nVARs:4 NUM_NODE:118 TBID:104 TEID:154
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/bits.c LINE:149:11 NODE_KIND:131 nVARs:4 NUM_NODE:118 TBID:104 TEID:154
+
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:400:11 NODE_KIND:65 nVARs:6 NUM_NODE:118 TBID:637 TEID:680
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:400:11 NODE_KIND:65 nVARs:6 NUM_NODE:118 TBID:637 TEID:680
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:400:11 NODE_KIND:65 nVARs:6 NUM_NODE:118 TBID:637 TEID:680
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:360:6 NODE_KIND:131 nVARs:7 NUM_NODE:40 TBID:928 TEID:951
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:360:6 NODE_KIND:131 nVARs:7 NUM_NODE:40 TBID:928 TEID:951
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:360:6 NODE_KIND:131 nVARs:7 NUM_NODE:40 TBID:928 TEID:951
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/lzw.c LINE:16:11 NODE_KIND:131 nVARs:8 NUM_NODE:104 TBID:14 TEID:60
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/lzw.c LINE:16:11 NODE_KIND:131 nVARs:8 NUM_NODE:104 TBID:14 TEID:60
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/lzw.c LINE:16:11 NODE_KIND:131 nVARs:8 NUM_NODE:104 TBID:14 TEID:60
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/lzw.c LINE:16:11 NODE_KIND:131 nVARs:8 NUM_NODE:104 TBID:14 TEID:60
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:181:18 NODE_KIND:131 nVARs:11 NUM_NODE:301 TBID:290 TEID:405
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:181:18 NODE_KIND:131 nVARs:11 NUM_NODE:301 TBID:290 TEID:405
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:181:18 NODE_KIND:131 nVARs:11 NUM_NODE:301 TBID:290 TEID:405
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/zip.c LINE:33:53 NODE_KIND:131 nVARs:7 NUM_NODE:42 TBID:15 TEID:40
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/zip.c LINE:33:53 NODE_KIND:131 nVARs:7 NUM_NODE:42 TBID:15 TEID:40
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/zip.c LINE:33:53 NODE_KIND:131 nVARs:7 NUM_NODE:42 TBID:15 TEID:40
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/bits.c LINE:133:9 NODE_KIND:65 nVARs:5 NUM_NODE:88 TBID:70 TEID:102
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/bits.c LINE:133:9 NODE_KIND:65 nVARs:5 NUM_NODE:88 TBID:70 TEID:102
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/bits.c LINE:133:9 NODE_KIND:65 nVARs:5 NUM_NODE:88 TBID:70 TEID:102
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:193:13 NODE_KIND:131 nVARs:3 NUM_NODE:83 TBID:137 TEID:182
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:193:13 NODE_KIND:131 nVARs:3 NUM_NODE:83 TBID:137 TEID:182
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:193:13 NODE_KIND:131 nVARs:3 NUM_NODE:83 TBID:137 TEID:182
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:186:1 NODE_KIND:65 nVARs:5 NUM_NODE:61 TBID:305 TEID:325
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:188:1 NODE_KIND:65 nVARs:5 NUM_NODE:61 TBID:326 TEID:346
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:191:1 NODE_KIND:65 nVARs:5 NUM_NODE:61 TBID:347 TEID:367
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:186:1 NODE_KIND:65 nVARs:5 NUM_NODE:61 TBID:305 TEID:325
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:188:1 NODE_KIND:65 nVARs:5 NUM_NODE:61 TBID:326 TEID:346
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:191:1 NODE_KIND:65 nVARs:5 NUM_NODE:61 TBID:347 TEID:367
+000000006	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:186:1 NODE_KIND:65 nVARs:5 NUM_NODE:61 TBID:305 TEID:325
+000000007	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:188:1 NODE_KIND:65 nVARs:5 NUM_NODE:61 TBID:326 TEID:346
+000000008	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:191:1 NODE_KIND:65 nVARs:5 NUM_NODE:61 TBID:347 TEID:367
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:706:36 NODE_KIND:65 nVARs:6 NUM_NODE:255 TBID:1158 TEID:1267
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:706:36 NODE_KIND:65 nVARs:6 NUM_NODE:255 TBID:1158 TEID:1267
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:706:36 NODE_KIND:65 nVARs:6 NUM_NODE:255 TBID:1158 TEID:1267
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:241:28 NODE_KIND:131 nVARs:8 NUM_NODE:546 TBID:201 TEID:381
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:241:28 NODE_KIND:131 nVARs:8 NUM_NODE:546 TBID:201 TEID:381
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:241:28 NODE_KIND:131 nVARs:8 NUM_NODE:546 TBID:201 TEID:381
+
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:410:54 NODE_KIND:131 nVARs:1 NUM_NODE:1801 TBID:1012 TEID:1529
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:410:54 NODE_KIND:131 nVARs:1 NUM_NODE:1801 TBID:1012 TEID:1529
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:410:54 NODE_KIND:131 nVARs:1 NUM_NODE:1801 TBID:1012 TEID:1529
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:297:1 NODE_KIND:65 nVARs:4 NUM_NODE:62 TBID:226 TEID:245
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:297:1 NODE_KIND:65 nVARs:4 NUM_NODE:62 TBID:226 TEID:245
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:297:1 NODE_KIND:65 nVARs:4 NUM_NODE:62 TBID:226 TEID:245
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/trees.c LINE:207:2 NODE_KIND:131 nVARs:7 NUM_NODE:62 TBID:289 TEID:308
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/trees.c LINE:207:2 NODE_KIND:131 nVARs:7 NUM_NODE:62 TBID:289 TEID:308
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/trees.c LINE:207:2 NODE_KIND:131 nVARs:7 NUM_NODE:62 TBID:289 TEID:308
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/bits.c LINE:154:4 NODE_KIND:65 nVARs:3 NUM_NODE:72 TBID:124 TEID:148
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/bits.c LINE:154:4 NODE_KIND:65 nVARs:3 NUM_NODE:72 TBID:124 TEID:148
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/bits.c LINE:154:4 NODE_KIND:65 nVARs:3 NUM_NODE:72 TBID:124 TEID:148
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:375:4 NODE_KIND:65 nVARs:5 NUM_NODE:77 TBID:527 TEID:557
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:403:4 NODE_KIND:65 nVARs:5 NUM_NODE:77 TBID:641 TEID:671
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:375:4 NODE_KIND:65 nVARs:5 NUM_NODE:77 TBID:527 TEID:557
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:403:4 NODE_KIND:65 nVARs:5 NUM_NODE:77 TBID:641 TEID:671
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:375:4 NODE_KIND:65 nVARs:5 NUM_NODE:77 TBID:527 TEID:557
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:403:4 NODE_KIND:65 nVARs:5 NUM_NODE:77 TBID:641 TEID:671
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/bits.c LINE:199:7 NODE_KIND:65 nVARs:5 NUM_NODE:49 TBID:233 TEID:256
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/bits.c LINE:199:7 NODE_KIND:65 nVARs:5 NUM_NODE:49 TBID:233 TEID:256
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/bits.c LINE:199:7 NODE_KIND:65 nVARs:5 NUM_NODE:49 TBID:233 TEID:256
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:352:5 NODE_KIND:65 nVARs:5 NUM_NODE:49 TBID:898 TEID:922
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:352:5 NODE_KIND:65 nVARs:5 NUM_NODE:49 TBID:898 TEID:922
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:352:5 NODE_KIND:65 nVARs:5 NUM_NODE:49 TBID:898 TEID:922
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:707:44 NODE_KIND:65 nVARs:17 NUM_NODE:444 TBID:1056 TEID:1217
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:707:44 NODE_KIND:65 nVARs:17 NUM_NODE:444 TBID:1056 TEID:1217
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:707:44 NODE_KIND:65 nVARs:17 NUM_NODE:444 TBID:1056 TEID:1217
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:617:9 NODE_KIND:65 nVARs:4 NUM_NODE:48 TBID:841 TEID:861
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:718:9 NODE_KIND:65 nVARs:4 NUM_NODE:48 TBID:1103 TEID:1123
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:617:9 NODE_KIND:65 nVARs:4 NUM_NODE:48 TBID:841 TEID:861
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:718:9 NODE_KIND:65 nVARs:4 NUM_NODE:48 TBID:1103 TEID:1123
+000000006	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:617:9 NODE_KIND:65 nVARs:4 NUM_NODE:48 TBID:841 TEID:861
+000000007	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:718:9 NODE_KIND:65 nVARs:4 NUM_NODE:48 TBID:1103 TEID:1123
+
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:336:6 NODE_KIND:131 nVARs:7 NUM_NODE:48 TBID:823 TEID:850
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:336:6 NODE_KIND:131 nVARs:7 NUM_NODE:48 TBID:823 TEID:850
+000000008	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:336:6 NODE_KIND:131 nVARs:7 NUM_NODE:48 TBID:823 TEID:850
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:149:15 NODE_KIND:131 nVARs:8 NUM_NODE:157 TBID:200 TEID:276
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:149:15 NODE_KIND:131 nVARs:8 NUM_NODE:157 TBID:200 TEID:276
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:149:15 NODE_KIND:131 nVARs:8 NUM_NODE:157 TBID:200 TEID:276
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:399:12 NODE_KIND:65 nVARs:7 NUM_NODE:165 TBID:620 TEID:680
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:399:12 NODE_KIND:65 nVARs:7 NUM_NODE:165 TBID:620 TEID:680
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:399:12 NODE_KIND:65 nVARs:7 NUM_NODE:165 TBID:620 TEID:680
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:368:78 NODE_KIND:65 nVARs:15 NUM_NODE:842 TBID:508 TEID:801
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:368:78 NODE_KIND:65 nVARs:15 NUM_NODE:842 TBID:508 TEID:801
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:368:78 NODE_KIND:65 nVARs:15 NUM_NODE:842 TBID:508 TEID:801
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:544:1 NODE_KIND:131 nVARs:6 NUM_NODE:58 TBID:675 TEID:694
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:548:1 NODE_KIND:131 nVARs:6 NUM_NODE:58 TBID:701 TEID:720
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:544:1 NODE_KIND:131 nVARs:6 NUM_NODE:58 TBID:675 TEID:694
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:548:1 NODE_KIND:131 nVARs:6 NUM_NODE:58 TBID:701 TEID:720
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:544:1 NODE_KIND:131 nVARs:6 NUM_NODE:58 TBID:675 TEID:694
+000000006	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:548:1 NODE_KIND:131 nVARs:6 NUM_NODE:58 TBID:701 TEID:720
+
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c LINE:1740:3 NODE_KIND:65 nVARs:4 NUM_NODE:58 TBID:3055 TEID:3076
+000000007	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c LINE:1739:3 NODE_KIND:65 nVARs:4 NUM_NODE:58 TBID:3065 TEID:3086
+
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/bits.c LINE:120:23 NODE_KIND:131 nVARs:6 NUM_NODE:107 TBID:55 TEID:103
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/bits.c LINE:120:23 NODE_KIND:131 nVARs:6 NUM_NODE:107 TBID:55 TEID:103
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/bits.c LINE:120:23 NODE_KIND:131 nVARs:6 NUM_NODE:107 TBID:55 TEID:103
+
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:357:9 NODE_KIND:65 nVARs:6 NUM_NODE:107 TBID:470 TEID:506
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:357:9 NODE_KIND:65 nVARs:6 NUM_NODE:107 TBID:470 TEID:506
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:357:9 NODE_KIND:65 nVARs:6 NUM_NODE:107 TBID:470 TEID:506
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c LINE:1730:8 NODE_KIND:65 nVARs:12 NUM_NODE:114 TBID:3001 TEID:3047
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c LINE:1729:8 NODE_KIND:65 nVARs:12 NUM_NODE:114 TBID:3011 TEID:3057
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:675:85 NODE_KIND:65 nVARs:28 NUM_NODE:745 TBID:976 TEID:1244
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:675:85 NODE_KIND:65 nVARs:28 NUM_NODE:745 TBID:976 TEID:1244
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:675:85 NODE_KIND:65 nVARs:28 NUM_NODE:745 TBID:976 TEID:1244
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c LINE:821:1 NODE_KIND:131 nVARs:3 NUM_NODE:54 TBID:1233 TEID:1253
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/gzip.c LINE:384:1 NODE_KIND:131 nVARs:3 NUM_NODE:54 TBID:881 TEID:901
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c LINE:821:1 NODE_KIND:131 nVARs:3 NUM_NODE:54 TBID:1243 TEID:1263
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:198:6 NODE_KIND:65 nVARs:2 NUM_NODE:54 TBID:155 TEID:178
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:198:6 NODE_KIND:65 nVARs:2 NUM_NODE:54 TBID:155 TEID:178
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:198:6 NODE_KIND:65 nVARs:2 NUM_NODE:54 TBID:155 TEID:178
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/deflate.c LINE:732:19 NODE_KIND:65 nVARs:9 NUM_NODE:171 TBID:1152 TEID:1217
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/deflate.c LINE:732:19 NODE_KIND:65 nVARs:9 NUM_NODE:171 TBID:1152 TEID:1217
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/deflate.c LINE:732:19 NODE_KIND:65 nVARs:9 NUM_NODE:171 TBID:1152 TEID:1217
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/trees.c LINE:853:223 NODE_KIND:131 nVARs:15 NUM_NODE:274 TBID:1525 TEID:1634
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/trees.c LINE:853:223 NODE_KIND:131 nVARs:15 NUM_NODE:274 TBID:1525 TEID:1634
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:427:12 NODE_KIND:65 nVARs:8 NUM_NODE:213 TBID:702 TEID:773
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:427:12 NODE_KIND:65 nVARs:8 NUM_NODE:213 TBID:702 TEID:773
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:427:12 NODE_KIND:65 nVARs:8 NUM_NODE:213 TBID:702 TEID:773
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:93:22 NODE_KIND:131 nVARs:4 NUM_NODE:44 TBID:157 TEID:177
+000000003	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:93:22 NODE_KIND:131 nVARs:4 NUM_NODE:44 TBID:157 TEID:177
+000000006	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:93:22 NODE_KIND:131 nVARs:4 NUM_NODE:44 TBID:157 TEID:177
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:311:1 NODE_KIND:65 nVARs:3 NUM_NODE:44 TBID:692 TEID:712
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:311:1 NODE_KIND:65 nVARs:3 NUM_NODE:44 TBID:692 TEID:712
+000000007	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:311:1 NODE_KIND:65 nVARs:3 NUM_NODE:44 TBID:692 TEID:712
+
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:397:9 NODE_KIND:131 nVARs:5 NUM_NODE:44 TBID:987 TEID:1010
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:397:9 NODE_KIND:131 nVARs:5 NUM_NODE:44 TBID:987 TEID:1010
+000000008	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:397:9 NODE_KIND:131 nVARs:5 NUM_NODE:44 TBID:987 TEID:1010
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c LINE:1557:8 NODE_KIND:131 nVARs:8 NUM_NODE:43 TBID:2216 TEID:2241
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/gzip.c LINE:756:8 NODE_KIND:131 nVARs:8 NUM_NODE:43 TBID:1419 TEID:1444
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c LINE:1556:8 NODE_KIND:131 nVARs:8 NUM_NODE:43 TBID:2226 TEID:2251
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:43:5 NODE_KIND:65 nVARs:8 NUM_NODE:75 TBID:48 TEID:81
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:43:5 NODE_KIND:65 nVARs:8 NUM_NODE:75 TBID:48 TEID:81
+000000004	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:43:5 NODE_KIND:65 nVARs:8 NUM_NODE:75 TBID:48 TEID:81
+
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/gzip.c LINE:1731:3 NODE_KIND:65 nVARs:8 NUM_NODE:75 TBID:3002 TEID:3029
+000000005	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/gzip.c LINE:1730:3 NODE_KIND:65 nVARs:8 NUM_NODE:75 TBID:3012 TEID:3039
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/getopt.c LINE:698:45 NODE_KIND:65 nVARs:11 NUM_NODE:340 TBID:1125 TEID:1268
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/src/getopt.c LINE:698:45 NODE_KIND:65 nVARs:11 NUM_NODE:340 TBID:1125 TEID:1268
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/getopt.c LINE:698:45 NODE_KIND:65 nVARs:11 NUM_NODE:340 TBID:1125 TEID:1268
+
+
+
+000000000	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/bugsig/util.c LINE:156:7 NODE_KIND:65 nVARs:7 NUM_NODE:131 TBID:220 TEID:275
+000000001	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/helium/slicing/util.c LINE:156:7 NODE_KIND:65 nVARs:7 NUM_NODE:131 TBID:220 TEID:275
+000000002	dist:0.0	FILE /home/hexin/Documents/Deckard/app2/bugbench/gzip-1.2.4/src/util.c LINE:156:7 NODE_KIND:65 nVARs:7 NUM_NODE:131 TBID:220 TEID:275
+
